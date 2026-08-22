@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiEPGManual">
-
+<!--
   <channel id="ESPN.cl">
     <display-name>ESPN</display-name>
   </channel>
@@ -326,5 +326,5 @@
     <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
     <category lang="es">Deportes</category>
   </programme>
-
+-->
 </tv>
