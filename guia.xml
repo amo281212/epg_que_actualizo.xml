@@ -149,8 +149,6 @@
     <category lang="es">Deportes</category>
   </programme>
 
-  ----------------------------------------------------------------------------------------------------------
-
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
@@ -322,5 +320,5 @@
     <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
     <category lang="es">Deportes</category>
   </programme>
-  
+
 </tv>
