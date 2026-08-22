@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MiEPGManual">
+
+  <!-- EJEMPLO DE CANAL Y PROGRAMA -->
+  <channel id="ESPN.cl">
+    <display-name>ESPN</display-name>
+  </channel>
+
+  <programme start="20260822150000 -0400" stop="20260822170000 -0400" channel="ESPN.cl">
+    <title lang="es">Programa de Prueba</title>
+    <desc lang="es">Descripción de prueba para mi EPG manual.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+</tv>
