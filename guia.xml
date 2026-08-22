@@ -6,7 +6,7 @@
   </channel>
 
   <programme start="20260822072000 -0400" stop="20260822092500 -0400" channel="ESPN.cl">
-    <title lang="es">Hull City vs. Manchester United</title>
+    <title lang="es">Hull City vs Manchester United</title>
     <desc lang="es">Premier League - Fecha 1.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -18,7 +18,7 @@
   </programme>
 
   <programme start="20260822095000 -0400" stop="20260822115500 -0400" channel="ESPN.cl">
-    <title lang="es">Everton vs. Crystal Palace</title>
+    <title lang="es">Everton vs Crystal Palace</title>
     <desc lang="es">Premier League - Fecha 1.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -30,7 +30,7 @@
   </programme>
 
   <programme start="20260822122000 -0400" stop="20260822142500 -0400" channel="ESPN.cl">
-    <title lang="es">Brentford vs. Tottenham Hotspur</title>
+    <title lang="es">Brentford vs Tottenham Hotspur</title>
     <desc lang="es">Premier League - Fecha 1.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -60,13 +60,13 @@
   </programme>
 
   <programme start="20260823085000 -0400" stop="20260823105500 -0400" channel="ESPN.cl">
-    <title lang="es">Brighton vs. Aston Villa</title>
+    <title lang="es">Brighton vs Aston Villa</title>
     <desc lang="es">Premier League - Fecha 1.</desc>
     <category lang="es">Deportes</category>
   </programme>
 
   <programme start="20260823105500 -0400" stop="20260823125500 -0400" channel="ESPN.cl">
-    <title lang="es">Atlético de Madrid vs. Villarreal</title>
+    <title lang="es">Atlético de Madrid vs Villarreal</title>
     <desc lang="es">LaLiga - Fecha 2.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -78,7 +78,7 @@
   </programme>
 
   <programme start="20260823151500 -0400" stop="20260823172500 -0400" channel="ESPN.cl">
-    <title lang="es">Elche vs. Barcelona</title>
+    <title lang="es">Elche vs Barcelona</title>
     <desc lang="es">LaLiga - Fecha 2.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -90,7 +90,7 @@
   </programme>
 
   <programme start="20260823180000 -0400" stop="20260823201500 -0400" channel="ESPN.cl">
-    <title lang="es">River Plate vs. Vélez Sársfield</title>
+    <title lang="es">River Plate vs Vélez Sársfield</title>
     <desc lang="es">Fútbol Argentino - Primera División.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -120,7 +120,7 @@
   </programme>
 
   <programme start="20260824145000 -0400" stop="20260824165500 -0400" channel="ESPN.cl">
-    <title lang="es">Fulham vs. Chelsea</title>
+    <title lang="es">Fulham vs Chelsea</title>
     <desc lang="es">Premier League - Fecha 1.</desc>
     <category lang="es">Deportes</category>
   </programme>
@@ -146,6 +146,180 @@
   <programme start="20260824213000 -0400" stop="20260824230000 -0400" channel="ESPN.cl">
     <title lang="es">ESPN F Show</title>
     <desc lang="es">Contenido ESPN.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  ----------------------------------------------------------------------------------------------------------
+
+  <channel id="TNTSportsPremium.cl">
+    <display-name>TNT Sports Premium</display-name>
+  </channel>
+
+  <programme start="20260822080500 -0400" stop="20260822090000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Data Sports - Primera Edición (Repetición)</title>
+    <desc lang="es">Repetición 21-08-2026.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822090000 -0400" stop="20260822100000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">No Es Para Tanto (Repetición)</title>
+    <desc lang="es">Repetición 21-08-2026.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822100000 -0400" stop="20260822111500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Historias de Matchday</title>
+    <desc lang="es">Sin descripción.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822111500 -0400" stop="20260822120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Colo-Colo vs U. de Chile (Campeonato 2000)</title>
+    <desc lang="es">Fecha 24.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822120000 -0400" stop="20260822123000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa Ascenso - D. Recoleta vs D. Copiapó</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822123000 -0400" stop="20260822143000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">D. Recoleta vs D. Copiapó</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822143000 -0400" stop="20260822144000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post Ascenso - D. Recoleta vs D. Copiapó</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822144000 -0400" stop="20260822150000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa Ascenso - D. Puerto Montt vs D. Iquique</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822150000 -0400" stop="20260822170000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">D. Puerto Montt vs D. Iquique</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822170000 -0400" stop="20260822171000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post Ascenso - D. Puerto Montt vs D. Iquique</title>
+    <desc lang="es">LIGA DE ASCENSO CAIXUN 2026 - FECHA 22</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822171000 -0400" stop="20260822173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - Huachipato vs D. Limache</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822173000 -0400" stop="20260822193000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Huachipato vs D. Limache</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822193000 -0400" stop="20260822194000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post - Huachipato vs D. Limache</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822194000 -0400" stop="20260822200000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - U. Católica vs Ñublense</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822200000 -0400" stop="20260822220000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. Católica vs Ñublense</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822220000 -0400" stop="20260822222000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post - U. Católica vs Ñublense</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260822222000 -0400" stop="20260822233000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. de Chile vs Colo-Colo (Campeonato 2018)</title>
+    <desc lang="es">FECHA 09</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823113000 -0400" stop="20260823120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - D. Concepción vs Coquimbo Unido</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823140000 -0400" stop="20260823150000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - U. de Chile vs Colo-Colo</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823150000 -0400" stop="20260823170000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. de Chile vs Colo-Colo</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823170000 -0400" stop="20260823173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post - U. de Chile vs Colo-Colo</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823173000 -0400" stop="20260823184500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Todos Somos Técnicos</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823184500 -0400" stop="20260823190000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - O'Higgins vs Palestino</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823190000 -0400" stop="20260823210000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">O'Higgins vs Palestino</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260823210000 -0400" stop="20260823212000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post - O'Higgins vs Palestino</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260824190000 -0400" stop="20260824193000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa - Everton vs U. de Concepción</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260824193000 -0400" stop="20260824213000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Everton vs U. de Concepción</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
+    <category lang="es">Deportes</category>
+  </programme>
+
+  <programme start="20260824213000 -0400" stop="20260824215000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post - Everton vs U. de Concepción</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
     <category lang="es">Deportes</category>
   </programme>
   
