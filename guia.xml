@@ -5,102 +5,6 @@
     <display-name>ESPN</display-name>
   </channel>
 
-  <programme start="20260823201500 -0400" stop="20260823222500 -0400" channel="ESPN.cl">
-    <title lang="es">Racing vs. Boca Juniors</title>
-    <desc lang="es">Fútbol Argentino - Primera División.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260823222500 -0400" stop="20260824000000 -0400" channel="ESPN.cl">
-    <title lang="es">ESPN Fútbol 1</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824084500 -0400" stop="20260824120000 -0400" channel="ESPN.cl">
-    <title lang="es">La Vuelta a España 2026</title>
-    <desc lang="es">La Vuelta a España será una carrera de ciclismo en ruta por etapas que se desarrollará entre el 22 de agosto y el 13 de septiembre de 2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824120000 -0400" stop="20260824145000 -0400" channel="ESPN.cl">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824145000 -0400" stop="20260824165500 -0400" channel="ESPN.cl">
-    <title lang="es">Fulham vs Chelsea</title>
-    <desc lang="es">Premier League - Fecha 1.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824165500 -0400" stop="20260824190000 -0400" channel="ESPN.cl">
-    <title lang="es">ESPN F360</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824190000 -0400" stop="20260824200000 -0400" channel="ESPN.cl">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824200000 -0400" stop="20260824213000 -0400" channel="ESPN.cl">
-    <title lang="es">ESPN F90</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824213000 -0400" stop="20260824230000 -0400" channel="ESPN.cl">
-    <title lang="es">ESPN F Show</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824213000 -0400" stop="20260825000000 -0400" channel="ESPN.cl">
-    <title lang="es">ESPN F Show</title>
-    <desc lang="es">Contenido ESPN.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825000000 -0400" stop="20260825100000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825100000 -0400" stop="20260825145000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825145000 -0400" stop="20260825170000 -0400" channel="ESPN.cl">
-    <title lang="es">LaLiga: Valencia vs Real Betis</title>
-    <desc lang="es">LaLiga.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825170000 -0400" stop="20260825200000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260826000000 -0400" stop="20260826100000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
   <programme start="20260826100000 -0400" stop="20260826145000 -0400" channel="ESPN.cl">
     <title lang="es">Contenido ESPN</title>
     <desc lang="es">Sin información.</desc>
@@ -140,174 +44,6 @@
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
-
-  <programme start="20260823212000 -0400" stop="20260823215000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">+Motor Copec Rallymobil (20-08-2026)</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260823215000 -0400" stop="20260823230500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Todos Somos Técnicos (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260823230500 -0400" stop="20260824010500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">D. La Serena vs Cobresal (Repetición)</title>
-    <desc lang="es">Repetición.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824010500 -0400" stop="20260824031000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">U. Católica vs Ñublense (Repetición)</title>
-    <desc lang="es">Repetición.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824031000 -0400" stop="20260824035500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Paredes y Herrera</title>
-    <desc lang="es">Repetición.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824035500 -0400" stop="20260824060000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">O'Higgins vs Palestino (Repetición)</title>
-    <desc lang="es">Repetición.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824060000 -0400" stop="20260824071500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Todos Somos Técnicos (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824071500 -0400" stop="20260824091500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">D. Antofagasta vs D. Temuco (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824091500 -0400" stop="20260824111500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">D. La Serena vs Cobresal (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824111500 -0400" stop="20260824131500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">O'Higgins vs Palestino (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824131500 -0400" stop="20260824151500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">U. de Chile vs Colo-Colo (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824151500 -0400" stop="20260824163000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Todos Somos Técnicos (Repetición)</title>
-    <desc lang="es">Repetición 23-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824163000 -0400" stop="20260824180000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Data Sports - Primera Edición (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824180000 -0400" stop="20260824190000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">No es para tanto (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824190000 -0400" stop="20260824193000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Previa - Everton vs U. de Concepción</title>
-    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824193000 -0400" stop="20260824213000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Everton vs U. de Concepción</title>
-    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824213000 -0400" stop="20260824215000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Post - Everton vs U. de Concepción</title>
-    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 20</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824215000 -0400" stop="20260824235000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Todos Somos Técnicos (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260824235000 -0400" stop="20260825012000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Data Sports (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825012000 -0400" stop="20260825032500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Everton vs U. de Concepción (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825032500 -0400" stop="20260825050000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Data Sports - Primera Edición (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825050000 -0400" stop="20260825060000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">No es para tanto (Repetición)</title>
-    <desc lang="es">Repetición 24-08-2026.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825060000 -0400" stop="20260825100000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260825220000 -0400" stop="20260826020000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-  <programme start="20260826020000 -0400" stop="20260826100000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
 
   <programme start="20260826100000 -0400" stop="20260826140000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
@@ -367,6 +103,16 @@
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
     <category lang="es">Deportes</category>
+  </programme>
+
+<channel id="Cinecanal.cl">
+    <display-name>Cinecanal</display-name>
+  </channel>
+
+  <programme start="20260826100000 -0400" stop="20260826145000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Pequeña Miss Sunshine</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
   </programme>
 
 </tv>
