@@ -43,19 +43,19 @@
     <display-name>Cinecanal</display-name>
   </channel>
 
-  <programme start="20260827115100 -0400" stop="20260826140000 -0400" channel="Cinecanal.cl">
+  <programme start="20260827115100 -0400" stop="20260827140000 -0400" channel="Cinecanal.cl">
     <title lang="es">Pequeña Miss Sunshine</title>
     <desc lang="es">Sin información.</desc>
     <category lang="es">Cine</category>
   </programme>
 
-<programme start="20260827140000 -0400" stop="20260826160900 -0400" channel="Cinecanal.cl">
+<programme start="20260827140000 -0400" stop="20260827160900 -0400" channel="Cinecanal.cl">
     <title lang="es">Mamá se va de viaje</title>
     <desc lang="es">Sin información.</desc>
     <category lang="es">Cine</category>
   </programme>
 
-<programme start="20260827160900 -0400" stop="20260826181000 -0400" channel="Cinecanal.cl">
+<programme start="20260827160900 -0400" stop="20260827181000 -0400" channel="Cinecanal.cl">
     <title lang="es">Los pingüinos de papá</title>
     <desc lang="es">Sin información.</desc>
     <category lang="es">Cine</category>
