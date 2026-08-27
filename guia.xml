@@ -1,64 +1,997 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiEPGManual">
+
+  <channel id="AMC.cl">
+    <display-name>AMC</display-name>
+  </channel>
+<programme start="20260827144500 -0400" stop="20260827180000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827180000 -0400" stop="20260827210000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827210000 -0400" stop="20260828000000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828000000 -0400" stop="20260828070000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828070000 -0400" stop="20260828100000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828100000 -0400" stop="20260828130000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828130000 -0400" stop="20260828160000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828160000 -0400" stop="20260828190000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828190000 -0400" stop="20260828220000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828220000 -0400" stop="20260829010000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829010000 -0400" stop="20260829070000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829070000 -0400" stop="20260829100000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829100000 -0400" stop="20260829130000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829130000 -0400" stop="20260829160000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829160000 -0400" stop="20260829190000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829190000 -0400" stop="20260829220000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829220000 -0400" stop="20260830010000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830010000 -0400" stop="20260830070000 -0400" channel="AMC.cl">
+    <title lang="es">Cine AMC</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+
+  <channel id="Cinecanal.cl">
+    <display-name>Cinecanal</display-name>
+  </channel>
+  <programme start="20260827140000 -0400" stop="20260827160900 -0400" channel="Cinecanal.cl">
+    <title lang="es">Mamá se va de viaje</title>
+    <desc lang="es">Cuando su esposa decide irse de vacaciones y dejarlo a cargo de sus cuatro hijos, sabe que será fácil. Pero Antoine ha subestimado el desastre que puede ser.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827160900 -0400" stop="20260827181000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Los pingüinos de papá</title>
+    <desc lang="es">Un exitoso empresario neoyorquino hereda seis pingüinos que transforman su lujoso departamento en un caos invernal, obligándolo a reconectarse con sus hijos y redescubrir el valor de la familia.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827181000 -0400" stop="20260827202100 -0400" channel="Cinecanal.cl">
+    <title lang="es">Ramona y Beezus</title>
+    <desc lang="es">Las divertidas y caóticas aventuras de Ramona, una niña con una imaginación desbordante, y su hermana mayor Beezus, quienes se unen para salvar el hogar familiar.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827202100 -0400" stop="20260827225900 -0400" channel="Cinecanal.cl">
+    <title lang="es">Moulin Rouge, amor en rojo</title>
+    <desc lang="es">En el París de 1900, un joven escritor se enamora de la estrella del Moulin Rouge, una hermosa cortesana atrapada entre el amor verdadero y el interés de un duque.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827225900 -0400" stop="20260828014400 -0400" channel="Cinecanal.cl">
+    <title lang="es">Emma</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828014400 -0400" stop="20260828080000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Cine trasnoche</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828080000 -0400" stop="20260828101000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Reefa: El artista</title>
+    <desc lang="es">Basado en hechos reales, narra la historia de un talentoso joven inmigrante colombiano y artista del grafiti en Miami, cuya vida y prometedor futuro se ven trágicamente truncados por la brutalidad policial.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828101000 -0400" stop="20260828121700 -0400" channel="Cinecanal.cl">
+    <title lang="es">El gran hotel Budapest</title>
+    <desc lang="es">El conserje de un elegante hotel europeo inicia una interesante amistad con un joven compañero de trabajo.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828121700 -0400" stop="20260828140700 -0400" channel="Cinecanal.cl">
+    <title lang="es">La gran aventura de los Lunnis y el libro mágico</title>
+    <desc lang="es">La fantasía está en peligro. El malvado Crudo ha descubierto la forma de terminar con el Libro Mágico, que contiene todas las historias inventadas por la humanidad. Una niña de 9 años es la elegida para salvarla con la ayuda de sus amigos los Lunnis.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828140700 -0400" stop="20260828160600 -0400" channel="Cinecanal.cl">
+    <title lang="es">4x4</title>
+    <desc lang="es">Una camioneta 4x4 estacionada en la vereda de un barrio de Buenos Aires. Un joven entra a robar, queda encerrado y debe lidiar con alguien que, desde afuera, tiene el control del vehículo.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828160600 -0400" stop="20260828184900 -0400" channel="Cinecanal.cl">
+    <title lang="es">Harriet</title>
+    <desc lang="es">La extraordinaria historia real de Harriet Tubman, quien escapó de la esclavitud y arriesgó su vida para guiar a cientos de personas hacia la libertad a través del Ferrocarril Subterráneo.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828184900 -0400" stop="20260828205700 -0400" channel="Cinecanal.cl">
+    <title lang="es">La noche de su vida</title>
+    <desc lang="es">Durante su discurso de graduación, un estudiante nerd declara públicamente su amor por la porrista más popular del instituto, desatando una loca noche de fiesta, enredos y problemas.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828205700 -0400" stop="20260828230000 -0400" channel="Cinecanal.cl">
+    <title lang="es">¡Esto es Guerra!</title>
+    <desc lang="es">Dos de los mejores operativos de la CIA se enfrentan entre sí luego de saber que ambos están saliendo con la misma chica. </desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828230000 -0400" stop="20260829011400 -0400" channel="Cinecanal.cl">
+    <title lang="es">El Cisne negro</title>
+    <desc lang="es"></desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829011400 -0400" stop="20260829080000 -0400" channel="Cinecanal.cl">
+    <title lang="es">La boda de Rosa</title>
+    <desc lang="es">A punto de cumplir 45 años, una mujer decide dejarlo todo, abrir su propio negocio y casarse consigo misma para recuperar el control de su vida, enfrentando la resistencia de su familia.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829080000 -0400" stop="20260829111500 -0400" channel="Cinecanal.cl">
+    <title lang="es">La liga extraordinaria</title>
+    <desc lang="es">En una era victoriana alternativa, el legendario aventurero Allan Quatermain lidera un equipo de personajes literarios con habilidades extraordinarias para detener a un villano que busca iniciar una guerra mundial.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829111500 -0400" stop="20260829131400 -0400" channel="Cinecanal.cl">
+    <title lang="es">4x4</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829131400 -0400" stop="20260829154000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Loco corazón</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829154000 -0400" stop="20260829181200 -0400" channel="Cinecanal.cl">
+    <title lang="es">Across the River and Into the Trees</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829181200 -0400" stop="20260829201300 -0400" channel="Cinecanal.cl">
+    <title lang="es">Los pingüinos de papá</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829201300 -0400" stop="20260829230000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Talentos Ocultos</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829230000 -0400" stop="20260830012600 -0400" channel="Cinecanal.cl">
+    <title lang="es">Música, glamour y fama</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830012600 -0400" stop="20260830100200 -0400" channel="Cinecanal.cl">
+    <title lang="es">Sin rodeos</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830100200 -0400" stop="20260830115800 -0400" channel="Cinecanal.cl">
+    <title lang="es">Algo azul</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830115800 -0400" stop="20260830140400 -0400" channel="Cinecanal.cl">
+    <title lang="es">El Gran Hotel Budapest</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830140400 -0400" stop="20260830161500 -0400" channel="Cinecanal.cl">
+    <title lang="es">Pequeña Miss Sunshine</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830161500 -0400" stop="20260830183000 -0400" channel="Cinecanal.cl">
+    <title lang="es">Cats</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830183000 -0400" stop="20260830202700 -0400" channel="Cinecanal.cl">
+    <title lang="es">(500) días con ella</title>
+    <desc lang="es">Sin info.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+
+  <channel id="Cinemax.cl">
+    <display-name>Cinemax</display-name>
+  </channel>
+  <programme start="20260827142200 -0400" stop="20260827162600 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápido y Furioso</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827162600 -0400" stop="20260827183400 -0400" channel="Cinemax.cl">
+    <title lang="es">Protegiendo al enemigo</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827183400 -0400" stop="20260827203000 -0400" channel="Cinemax.cl">
+    <title lang="es">CHIPS: Patrulla Motorizada Recargada</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827203000 -0400" stop="20260827230000 -0400" channel="Cinemax.cl">
+    <title lang="es">El Plan Perfecto</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827230000 -0400" stop="20260828010000 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápido y Furioso</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828010000 -0400" stop="20260828090300 -0400" channel="Cinemax.cl">
+    <title lang="es">Mountainhead</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828090300 -0400" stop="20260828105900 -0400" channel="Cinemax.cl">
+    <title lang="es">El vengador</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828105900 -0400" stop="20260828124900 -0400" channel="Cinemax.cl">
+    <title lang="es">Amigas Para Siempre</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828124900 -0400" stop="20260828145400 -0400" channel="Cinemax.cl">
+    <title lang="es">El caza recompensas</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828145400 -0400" stop="20260828165200 -0400" channel="Cinemax.cl">
+    <title lang="es">Pasaje al paraíso</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828165200 -0400" stop="20260828185900 -0400" channel="Cinemax.cl">
+    <title lang="es">47 Ronin</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828185900 -0400" stop="20260828205200 -0400" channel="Cinemax.cl">
+    <title lang="es">Amigas Para Siempre</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828205200 -0400" stop="20260828230000 -0400" channel="Cinemax.cl">
+    <title lang="es">El caza recompensas</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828230000 -0400" stop="20260829085000 -0400" channel="Cinemax.cl">
+    <title lang="es">Chiquito pero peligroso</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829085000 -0400" stop="20260829102500 -0400" channel="Cinemax.cl">
+    <title lang="es">Minions</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829102500 -0400" stop="20260829120200 -0400" channel="Cinemax.cl">
+    <title lang="es">Shrek</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829120200 -0400" stop="20260829143500 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápidos y Furiosos 7</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829143500 -0400" stop="20260829170700 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápidos y Furiosos 8</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829170700 -0400" stop="20260829184200 -0400" channel="Cinemax.cl">
+    <title lang="es">Minions</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829184200 -0400" stop="20260829202300 -0400" channel="Cinemax.cl">
+    <title lang="es">Shrek</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829202300 -0400" stop="20260829230000 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápidos y Furiosos 7</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829230000 -0400" stop="20260830013000 -0400" channel="Cinemax.cl">
+    <title lang="es">Rápidos y Furiosos 8</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830013000 -0400" stop="20260830103500 -0400" channel="Cinemax.cl">
+    <title lang="es">Corazón de caballero</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830103500 -0400" stop="20260830125200 -0400" channel="Cinemax.cl">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830125200 -0400" stop="20260830154900 -0400" channel="Cinemax.cl">
+    <title lang="es">Matrix Resurrecciones</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830154900 -0400" stop="20260830180500 -0400" channel="Cinemax.cl">
+    <title lang="es">La momia</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260830180500 -0400" stop="20260830203700 -0400" channel="Cinemax.cl">
+    <title lang="es">Corazón de caballero</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+
+  <channel id="Golden.cl">
+    <display-name>Golden</display-name>
+  </channel>
+  <programme start="20260827155900 -0400" stop="20260827175200 -0400" channel="Golden.cl">
+    <title lang="es">Robo en las alturas</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827175200 -0400" stop="20260827195100 -0400" channel="Golden.cl">
+    <title lang="es">La familia de mi novio</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827195100 -0400" stop="20260827220000 -0400" channel="Golden.cl">
+    <title lang="es">Los Fockers: la familia de mi esposo</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827220000 -0400" stop="20260827234700 -0400" channel="Golden.cl">
+    <title lang="es">American pie tu primera vez</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827234700 -0400" stop="20260828090800 -0400" channel="Golden.cl">
+    <title lang="es">El Mesero</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828090800 -0400" stop="20260828105300 -0400" channel="Golden.cl">
+    <title lang="es">El Roomie</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828105300 -0400" stop="20260828123600 -0400" channel="Golden.cl">
+    <title lang="es">El candidato honesto</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828123600 -0400" stop="20260828142300 -0400" channel="Golden.cl">
+    <title lang="es">Una mujer sin filtro</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828142300 -0400" stop="20260828162200 -0400" channel="Golden.cl">
+    <title lang="es">La familia de mi novio</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828162200 -0400" stop="20260828182900 -0400" channel="Golden.cl">
+    <title lang="es">Los Fockers: La familia de mi esposo</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828182900 -0400" stop="20260828201300 -0400" channel="Golden.cl">
+    <title lang="es">Dolittle</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828201300 -0400" stop="20260828220000 -0400" channel="Golden.cl">
+    <title lang="es">American pie tu primera vez</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828220000 -0400" stop="20260828234800 -0400" channel="Golden.cl">
+    <title lang="es">Un Golpe con Estilo</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260828234800 -0400" stop="20260829014500 -0400" channel="Golden.cl">
+    <title lang="es">El Maestro Luchador</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829014500 -0400" stop="20260829094600 -0400" channel="Golden.cl">
+    <title lang="es">María, ¡Me Muero!</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829094600 -0400" stop="20260829113300 -0400" channel="Golden.cl">
+    <title lang="es">Una Mujer sin Filtro</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829113300 -0400" stop="20260829131000 -0400" channel="Golden.cl">
+    <title lang="es">Guerra de novias</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829131000 -0400" stop="202608291457000 -0400" channel="Golden.cl">
+    <title lang="es">Un Golpe con Estilo</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829145700 -0400" stop="20260829164800 -0400" channel="Golden.cl">
+    <title lang="es">Quiero Robarme a la Novia</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829164800 -0400" stop="20260829181900 -0400" channel="Golden.cl">
+    <title lang="es">Pequeños traviesos</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260829181900 -0400" stop="20260829200300 -0400" channel="Golden.cl">
+    <title lang="es">Dolittle</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+
+  <channel id="GoldenEdge.cl">
+    <display-name>Golden Edge</display-name>
+  </channel>
+  <programme start="20260827154300 -0400" stop="20260827175600 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Justiciero</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827175600 -0400" stop="20260827195400 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Reyes de la calle</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827195400 -0400" stop="20260827214200 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Fuego contra fuego</title>
+    <desc lang="es">Sin información.</desc>
+    <category lang="es">Cine</category>
+  </programme>
+  <programme start="20260827214200 -0400" stop="20260828000700 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Justiciero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828000700 -0400" stop="20260828093800 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Después de la muerte</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828093800 -0400" stop="20260828112000 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Dura travesía</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828112000 -0400" stop="20260828130200 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El gran impostor</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828130200 -0400" stop="20260828144400 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Atrapen al Gringo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828144400 -0400" stop="20260828163200 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Fuego contra fuego</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828163200 -0400" stop="20260828182500 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Robo en las alturas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828182500 -0400" stop="20260828200700 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Atrapen al Gringo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828200700 -0400" stop="20260828224800 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Hombre en llamas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828224800 -0400" stop="20260829003500 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Destino Final</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829003500 -0400" stop="20260829084700 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Precio del Mañana</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829084700 -0400" stop="20260829110000 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829110000 -0400" stop="20260829124700 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Destino Final</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829124700 -0400" stop="20260829152800 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Hombre en llamas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829152800 -0400" stop="20260829171900 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Transportador 3</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829171900 -0400" stop="20260829192500 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Karate Kid II</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829192500 -0400" stop="20260829211300 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Los indestructibles 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829211300 -0400" stop="20260829233800 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El justiciero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260829233800 -0400" stop="20260830020000 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Los federales</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830020000 -0400" stop="20260830091700 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Mediador</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830091700 -0400" stop="20260830112300 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Karate Kid II</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830112300 -0400" stop="20260830131400 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Transportador 3</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830131400 -0400" stop="20260830150400 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El Redentor</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830150400 -0400" stop="20260830172900 -0400" channel="GoldenEdge.cl">
+    <title lang="es">El justiciero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830172900 -0400" stop="20260830201900 -0400" channel="GoldenEdge.cl">
+    <title lang="es">2012</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830201900 -0400" stop="20260830225400 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Forrest Gump</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830225400 -0400" stop="20260831020000 -0400" channel="GoldenEdge.cl">
+    <title lang="es">Salvando al soldado Ryan</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+  </channel>
+  <programme start="20260827165500 -0400" stop="20260827192700 -0400" channel="HBO.cl">
+    <title lang="es">El Hombre de Acero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827192700 -0400" stop="20260827220700 -0400" channel="HBO.cl">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827220700 -0400" stop="20260828000000 -0400" channel="HBO.cl">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828000000 -0400" stop="20260828080400 -0400" channel="HBO.cl">
+    <title lang="es">Sí señor</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828080400 -0400" stop="20260828095900 -0400" channel="HBO.cl">
+    <title lang="es">Al Filo del Mañana</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828095900 -0400" stop="20260828120300 -0400" channel="HBO.cl">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828120300 -0400" stop="20260828140300 -0400" channel="HBO.cl">
+    <title lang="es">Venom</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828140300 -0400" stop="20260828155500 -0400" channel="HBO.cl">
+    <title lang="es">Pasaje al paraíso</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828155500 -0400" stop="20260828180700 -0400" channel="HBO.cl">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828180700 -0400" stop="20260828201100 -0400" channel="HBO.cl">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828201100 -0400" stop="20260828220000 -0400" channel="HBO.cl">
+    <title lang="es">Venom</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828220000 -0400" stop="20260829003500 -0400" channel="HBO.cl">
+    <title lang="es">Ella Dijo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829003500 -0400" stop="20260829082300 -0400" channel="HBO.cl">
+    <title lang="es">Titanes del Pacífico</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829082300 -0400" stop="20260829105300 -0400" channel="HBO.cl">
+    <title lang="es">El Hombre de Acero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829105300 -0400" stop="20260829130700 -0400" channel="HBO.cl">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829130700 -0400" stop="20260829153700 -0400" channel="HBO.cl">
+    <title lang="es">Flash</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829153700 -0400" stop="20260829174100 -0400" channel="HBO.cl">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829174100 -0400" stop="20260829195700 -0400" channel="HBO.cl">
+    <title lang="es">Jurassic World: El Reino Caído</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829195700 -0400" stop="20260829220000 -0400" channel="HBO.cl">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829220000 -0400" stop="20260830003100 -0400" channel="HBO.cl">
+    <title lang="es">Song Sung Blue</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830003100 -0400" stop="20260830090700 -0400" channel="HBO.cl">
+    <title lang="es">Harry Potter y el Prisionero de Azkaban</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830090700 -0400" stop="20260830105900 -0400" channel="HBO.cl">
+    <title lang="es">Geo-Tormenta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830105900 -0400" stop="20260830131700 -0400" channel="HBO.cl">
+    <title lang="es">Moonfall</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830131700 -0400" stop="20260830152500 -0400" channel="HBO.cl">
+    <title lang="es">Jumanji: En la Selva</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830152500 -0400" stop="20260830174900 -0400" channel="HBO.cl">
+    <title lang="es">Wicked por siempre</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830174900 -0400" stop="20260830195300 -0400" channel="HBO.cl">
+    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830195300 -0400" stop="20260830220000 -0400" channel="HBO.cl">
+    <title lang="es">Moonfall</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
+  <channel id="HBO2.cl">
+    <display-name>HBO2</display-name>
+  </channel>
+  <programme start="20260827165100 -0400" stop="20260827192800 -0400" channel="HBO2.cl">
+    <title lang="es">Furiosa: De la Saga Mad Max</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827192800 -0400" stop="20260827214800 -0400" channel="HBO2.cl">
+    <title lang="es">Shazam!</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827214800 -0400" stop="20260828000000 -0400" channel="HBO2.cl">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="HBO2.cl">
+    <title lang="es">La huérfana</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828080000 -0400" stop="20260828102700 -0400" channel="HBO2.cl">
+    <title lang="es">Comer, Rezar, Amar</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828102700 -0400" stop="20260828130700 -0400" channel="HBO2.cl">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828130700 -0400" stop="20260828154300 -0400" channel="HBO2.cl">
+    <title lang="es">El origen</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828154300 -0400" stop="20260828175600 -0400" channel="HBO2.cl">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828175600 -0400" stop="20260828194900 -0400" channel="HBO2.cl">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828194900 -0400" stop="20260828215500 -0400" channel="HBO2.cl">
+    <title lang="es">Jumanji: En la Selva</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828215500 -0400" stop="20260829000000 -0400" channel="HBO2.cl">
+    <title lang="es">Bugonia</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829000000 -0400" stop="20260829100900 -0400" channel="HBO2.cl">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829100900 -0400" stop="20260829114700 -0400" channel="HBO2.cl">
+    <title lang="es">Shrek</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829114700 -0400" stop="20260829132900 -0400" channel="HBO2.cl">
+    <title lang="es">Vista por Última Vez</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829132900 -0400" stop="20260829153500 -0400" channel="HBO2.cl">
+    <title lang="es">La cumbre escarlata</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829153500 -0400" stop="20260829175600 -0400" channel="HBO2.cl">
+    <title lang="es">Ella Dijo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829175600 -0400" stop="20260829200400 -0400" channel="HBO2.cl">
+    <title lang="es">Cónclave</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200400 -0400" stop="20260829222200 -0400" channel="HBO2.cl">
+    <title lang="es">El robo perfecto: Pantera</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829222200 -0400" stop="20260830000000 -0400" channel="HBO2.cl">
+    <title lang="es">Nada entre los dos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830000000 -0400" stop="20260830093500 -0400" channel="HBO2.cl">
+    <title lang="es">Hancock</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830093500 -0400" stop="20260830110500 -0400" channel="HBO2.cl">
+    <title lang="es">Una periodista romántica</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830110500 -0400" stop="20260830125800 -0400" channel="HBO2.cl">
+    <title lang="es">Beekeeper: Sentencia de Muerte</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830125800 -0400" stop="20260830152000 -0400" channel="HBO2.cl">
+    <title lang="es">Christy</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830152000 -0400" stop="20260830174300 -0400" channel="HBO2.cl">
+    <title lang="es">Cumbres borrascosas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830174300 -0400" stop="20260830195500 -0400" channel="HBO2.cl">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830195500 -0400" stop="20260830210000 -0400" channel="HBO2.cl">
+    <title lang="es">Linternas</title>
+    <desc lang="es">Temporada 1, episodio 2.</desc>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260830230000 -0400" channel="HBO2.cl">
+    <title lang="es">Song Sung Blue</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260830230000 -0400" stop="20260831010000 -0400" channel="HBO2.cl">
+    <title lang="es">Destino Final: Lazos de Sangre</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831010000 -0400" stop="20260831101700 -0400" channel="HBO2.cl">
+    <title lang="es">La Momia Regresa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831101700 -0400" stop="20260831120300 -0400" channel="HBO2.cl">
+    <title lang="es">Furia de Titanes 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831120300 -0400" stop="20260831140700 -0400" channel="HBO2.cl">
+    <title lang="es">Inferno</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831140700 -0400" stop="20260831163700 -0400" channel="HBO2.cl">
+    <title lang="es">Flash</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831163700 -0400" stop="20260831184100 -0400" channel="HBO2.cl">
+    <title lang="es">HBO Movies</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831184100 -0400" stop="20260831205300 -0400" channel="HBO2.cl">
+    <title lang="es">Aquaman y el Reino Perdido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831205300 -0400" stop="20260831225500 -0400" channel="HBO2.cl">
+    <title lang="es">Al Filo del Mañana</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  programme start="20260831225500 -0400" stop="20260901000000 -0400" channel="HBO2.cl">
+    <title lang="es">Linternas</title>
+    <desc lang="es">Temporada 1: Episodio 3.</desc>
+  </programme>
+
+  <channel id="HBOFamily.cl">
+    <display-name>HBO Family</display-name>
+  </channel>
+  <programme start="20260827174300 -0400" stop="20260827192300 -0400" channel="HBOFamily.cl">
+    <title lang="es">Un Jefe en Pañales</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827192300 -0400" stop="20260827210000 -0400" channel="HBOFamily.cl">
+    <title lang="es">Pieza por pieza</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827210000 -0400" stop="20260827224100 -0400" channel="HBOFamily.cl">
+    <title lang="es">La casa de muñecas de Gabby</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260827224100 -0400" stop="20260828001800 -0400" channel="HBOFamily.cl">
+    <title lang="es">Karate Kid: Leyendas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828001800 -0400" stop="20260828094700 -0400" channel="HBOFamily.cl">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828094700 -0400" stop="20260828112900 -0400" channel="HBOFamily.cl">
+    <title lang="es">GOAT: La cabra que cambió el juego</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828112900 -0400" stop="20260828141200 -0400" channel="HBOFamily.cl">
+    <title lang="es">Wicked</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828141200 -0400" stop="20260828155900 -0400" channel="HBOFamily.cl">
+    <title lang="es">Pokémon: Detective Pikachu</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828155900 -0400" stop="20260828173900 -0400" channel="HBOFamily.cl">
+    <title lang="es">Un Amigo Abominable</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828173900 -0400" stop="20260828191800 -0400" channel="HBOFamily.cl">
+    <title lang="es">Megamente</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828191800 -0400" stop="20260828210000 -0400" channel="HBOFamily.cl">
+    <title lang="es">GOAT: La cabra que cambió el juego</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828210000 -0400" stop="20260828225100 -0400" channel="HBOFamily.cl">
+    <title lang="es">Sing: ¡Ven y Canta!</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828225100 -0400" stop="20260829011500 -0400" channel="HBOFamily.cl">
+    <title lang="es">Mujer Maravilla</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829011500 -0400" stop="20260829031300 -0400" channel="HBOFamily.cl">
+    <title lang="es">Volver al Futuro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829031300 -0400" stop="20260829093300 -0400" channel="HBOFamily.cl">
+    <title lang="es">Hotel Transylvania</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829093300 -0400" stop="20260829121200 -0400" channel="HBOFamily.cl">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829121200 -0400" stop="20260829142300 -0400" channel="HBOFamily.cl">
+    <title lang="es">Superman</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829142300 -0400" stop="20260829155800 -0400" channel="HBOFamily.cl">
+    <title lang="es">Pieza por pieza</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829155800 -0400" stop="20260829175300 -0400" channel="HBOFamily.cl">
+    <title lang="es">Jack El Cazagigantes</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829175300 -0400" stop="20260829192500 -0400" channel="HBOFamily.cl">
+    <title lang="es">Shrek</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829192500 -0400" stop="20260829210000 -0400" channel="HBOFamily.cl">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829210000 -0400" stop="20260829223600 -0400" channel="HBOFamily.cl">
+    <title lang="es">Shrek Tercero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829223600 -0400" stop="20260830004800 -0400" channel="HBOFamily.cl">
+    <title lang="es">Superman</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
   
   <channel id="ESPN.cl">
     <display-name>ESPN</display-name>
   </channel>
-
   <programme start="20260827100000 -0400" stop="20260827160000 -0400" channel="ESPN.cl">
     <title lang="es">Contenido ESPN</title>
     <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
   </programme>
 
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
-
-  <programme start="20260827080000 -0400" stop="20260827160000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
   <programme start="20260827160000 -0400" stop="20260828000000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
   </programme>
-
   <programme start="20260828000000 -0400" stop="20260828100000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
   </programme>
-
   <programme start="20260828100000 -0400" stop="20260828140000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
-    <category lang="es">Deportes</category>
-  </programme>
-
-<channel id="Cinecanal.cl">
-    <display-name>Cinecanal</display-name>
-  </channel>
-
-  <programme start="20260827115100 -0400" stop="20260827140000 -0400" channel="Cinecanal.cl">
-    <title lang="es">Pequeña Miss Sunshine</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Cine</category>
-  </programme>
-
-<programme start="20260827140000 -0400" stop="20260827160900 -0400" channel="Cinecanal.cl">
-    <title lang="es">Mamá se va de viaje</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Cine</category>
-  </programme>
-
-<programme start="20260827160900 -0400" stop="20260827181000 -0400" channel="Cinecanal.cl">
-    <title lang="es">Los pingüinos de papá</title>
-    <desc lang="es">Sin información.</desc>
-    <category lang="es">Cine</category>
   </programme>
 
 </tv>
