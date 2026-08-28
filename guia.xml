@@ -172,11 +172,15 @@
   <channel id="Cinemax.cl">
     <display-name>Cinemax</display-name>
   </channel>
-  <programme start="20260827230000 -0400" stop="20260828010000 -0400" channel="Cinemax.cl">
+  <programme start="20260827230000 -0400" stop="20260828005700 -0400" channel="Cinemax.cl">
     <title lang="es">Rápido y Furioso</title>
     <desc lang="es">Sin información.</desc>
   </programme>
-  <programme start="20260828010000 -0400" stop="20260828090300 -0400" channel="Cinemax.cl">
+  <programme start="20260828005700 -0400" stop="20260828025300 -0400" channel="Cinemax.cl">
+    <title lang="es">Se busca</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828025300 -0400" stop="20260828090300 -0400" channel="Cinemax.cl">
     <title lang="es">Mountainhead</title>
     <desc lang="es">Sin información.</desc>
   </programme>
