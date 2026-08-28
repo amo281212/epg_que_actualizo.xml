@@ -1,13 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MiEPGManual">
 
+  <channel id="TVN.cl">
+    <display-name>TVN</display-name>
+  </channel>
+  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="TVN.cl">
+    <title lang="es">24 horas tu mañana</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828080000 -0400" stop="20260828110000 -0400" channel="TVN.cl">
+    <title lang="es">Buenos Días a Todos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828110000 -0400" stop="20260828130000 -0400" channel="TVN.cl">
+    <title lang="es">El Medio Día</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828130000 -0400" stop="20260828150000 -0400" channel="TVN.cl">
+    <title lang="es">24 Horas al Día</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828150000 -0400" stop="20260828163000 -0400" channel="TVN.cl">
+    <title lang="es">Pampa Ilusión</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828163000 -0400" stop="20260828174500 -0400" channel="TVN.cl">
+    <title lang="es">La promesa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828174500 -0400" stop="20260828190000 -0400" channel="TVN.cl">
+    <title lang="es">Caso Cerrado</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828190000 -0400" stop="20260828210000 -0400" channel="TVN.cl">
+    <title lang="es">¡Ahora caigo!</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828210000 -0400" stop="20260828224500 -0400" channel="TVN.cl">
+    <title lang="es">24 Horas Central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828224500 -0400" stop="20260828225000 -0400" channel="TVN.cl">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828225000 -0400" stop="20260829004500 -0400" channel="TVN.cl">
+    <title lang="es">¡Ahora caigo!</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829004500 -0400" stop="20260829083000 -0400" channel="TVN.cl">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829083000 -0400" stop="20260829103000 -0400" channel="TVN.cl">
+    <title lang="es">Chilenos de norte a sur</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829103000 -0400" stop="20260829133000 -0400" channel="TVN.cl">
+    <title lang="es">El Chavo del Ocho</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829133000 -0400" stop="20260829150000 -0400" channel="TVN.cl">
+    <title lang="es">24 horas al día</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829150000 -0400" stop="20260829180000 -0400" channel="TVN.cl">
+    <title lang="es">Cine TVN</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829180000 -0400" stop="20260829210000 -0400" channel="TVN.cl">
+    <title lang="es">Cine TVN</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829210000 -0400" stop="20260829224500 -0400" channel="TVN.cl">
+    <title lang="es">24 Horas Central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829224500 -0400" stop="20260829225000 -0400" channel="TVN.cl">
+    <title lang="es">TV tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829225000 -0400" stop="20260830020000 -0400" channel="TVN.cl">
+    <title lang="es">Best Seller</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830020000 -0400" stop="20260830123000 -0400" channel="TVN.cl">
+    <title lang="es">Ironman</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830123000 -0400" stop="20260830150000 -0400" channel="TVN.cl">
+    <title lang="es">24 Horas al Día</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830150000 -0400" stop="20260830191500 -0400" channel="TVN.cl">
+    <title lang="es">Chile conectado</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830191500 -0400" stop="20260830210000 -0400" channel="TVN.cl">
+    <title lang="es">Zona de control</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260830224500 -0400" channel="TVN.cl">
+    <title lang="es">24 Horas Central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830224500 -0400" stop="20260830225000 -0400" channel="TVN.cl">
+    <title lang="es">TV Tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  
   <channel id="AMC.cl">
     <display-name>AMC</display-name>
   </channel>
-  <programme start="20260827210000 -0400" stop="20260828000000 -0400" channel="AMC.cl">
-    <title lang="es">Cine AMC</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828000000 -0400" stop="20260828070000 -0400" channel="AMC.cl">
     <title lang="es">Cine AMC</title>
     <desc lang="es">Sin información.</desc>
@@ -172,10 +276,6 @@
   <channel id="Cinemax.cl">
     <display-name>Cinemax</display-name>
   </channel>
-  <programme start="20260827230000 -0400" stop="20260828005700 -0400" channel="Cinemax.cl">
-    <title lang="es">Rápido y Furioso</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828005700 -0400" stop="20260828025300 -0400" channel="Cinemax.cl">
     <title lang="es">Se busca</title>
     <desc lang="es">Sin información.</desc>
@@ -272,10 +372,6 @@
   <channel id="Golden.cl">
     <display-name>Golden</display-name>
   </channel>
-  <programme start="20260827220000 -0400" stop="20260827234700 -0400" channel="Golden.cl">
-    <title lang="es">American pie tu primera vez</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260827234700 -0400" stop="20260828012800 -0400" channel="Golden.cl">
     <title lang="es">Contrarreloj</title>
     <desc lang="es">Sin información.</desc>
@@ -352,14 +448,6 @@
   <channel id="GoldenEdge.cl">
     <display-name>Golden Edge</display-name>
   </channel>
-  <programme start="20260827195400 -0400" stop="20260827214200 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Fuego contra fuego</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260827214200 -0400" stop="20260828000700 -0400" channel="GoldenEdge.cl">
-    <title lang="es">El Justiciero</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828000700 -0400" stop="20260828020000 -0400" channel="GoldenEdge.cl">
     <title lang="es">Robo en las alturas</title>
     <desc lang="es">Sin información.</desc>
@@ -472,10 +560,6 @@
   <channel id="HBO.cl">
     <display-name>HBO</display-name>
   </channel>
-  <programme start="20260827220700 -0400" stop="20260828000000 -0400" channel="HBO.cl">
-    <title lang="es">Wonka</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828000000 -0400" stop="20260828080400 -0400" channel="HBO.cl">
     <title lang="es">Sí señor</title>
     <desc lang="es">Sin información.</desc>
@@ -576,18 +660,6 @@
   <channel id="HBO2.cl">
     <display-name>HBO2</display-name>
   </channel>
-  <programme start="20260827165100 -0400" stop="20260827192800 -0400" channel="HBO2.cl">
-    <title lang="es">Furiosa: De la Saga Mad Max</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260827192800 -0400" stop="20260827214800 -0400" channel="HBO2.cl">
-    <title lang="es">Shazam!</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260827214800 -0400" stop="20260828000000 -0400" channel="HBO2.cl">
-    <title lang="es">Jurassic World: Mundo Jurásico</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="HBO2.cl">
     <title lang="es">La huérfana</title>
     <desc lang="es">Sin información.</desc>
@@ -724,14 +796,6 @@
   <channel id="HBOFamily.cl">
     <display-name>HBO Family</display-name>
   </channel>
-  <programme start="20260827210000 -0400" stop="20260827224100 -0400" channel="HBOFamily.cl">
-    <title lang="es">La casa de muñecas de Gabby</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260827224100 -0400" stop="20260828001800 -0400" channel="HBOFamily.cl">
-    <title lang="es">Karate Kid: Leyendas</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828001800 -0400" stop="20260828094700 -0400" channel="HBOFamily.cl">
     <title lang="es">Cómo Entrenar a tu Dragón 3</title>
     <desc lang="es">Sin información.</desc>
@@ -806,6 +870,202 @@
   </programme>
   <programme start="20260829223600 -0400" stop="20260830004800 -0400" channel="HBOFamily.cl">
     <title lang="es">Superman</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
+  <channel id="HBOPop.cl">
+    <display-name>HBO Pop</display-name>
+  </channel>
+  <programme start="20260828010000 -0400" stop="20260828090500 -0400" channel="HBOPop.cl">
+    <title lang="es">Fuego cruzado</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828090500 -0400" stop="20260828105000 -0400" channel="HBOPop.cl">
+    <title lang="es">17 otra vez</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828105000 -0400" stop="20260828124000 -0400" channel="HBOPop.cl">
+    <title lang="es">Policias de repuesto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828124000 -0400" stop="20260828144500 -0400" channel="HBOPop.cl">
+    <title lang="es">Cuestión de Tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828144500 -0400" stop="20260828164500 -0400" channel="HBOPop.cl">
+    <title lang="es">Amores Materialistas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828164500 -0400" stop="20260828183500 -0400" channel="HBOPop.cl">
+    <title lang="es">El Alma de la Fiesta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828183500 -0400" stop="20260828201000 -0400" channel="HBOPop.cl">
+    <title lang="es">Buenos vecinos 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828201000 -0400" stop="20260828220000 -0400" channel="HBOPop.cl">
+    <title lang="es">Policias de repuesto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828220000 -0400" stop="20260828225000 -0400" channel="HBOPop.cl">
+    <title lang="es">HBO Movies</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828225000 -0400" stop="20260829005000 -0400" channel="HBOPop.cl">
+    <title lang="es">Amores Materialistas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829005000 -0400" stop="20260829091000 -0400" channel="HBOPop.cl">
+    <title lang="es">La Tierra Perdida</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829091000 -0400" stop="20260829105500 -0400" channel="HBOPop.cl">
+    <title lang="es">Evolución</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829105500 -0400" stop="20260829125000 -0400" channel="HBOPop.cl">
+    <title lang="es">American Pie El reencuentro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829125000 -0400" stop="20260829143500 -0400" channel="HBOPop.cl">
+    <title lang="es">Anaconda</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829143500 -0400" stop="20260829162000 -0400" channel="HBOPop.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829162000 -0400" stop="20260829182500 -0400" channel="HBOPop.cl">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829182500 -0400" stop="20260829203500 -0400" channel="HBOPop.cl">
+    <title lang="es">El Hombre Araña 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829203500 -0400" stop="20260829230000 -0400" channel="HBOPop.cl">
+    <title lang="es">El Hombre Araña 3</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829230000 -0400" stop="20260830004500 -0400" channel="HBOPop.cl">
+    <title lang="es">Anaconda</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830004500 -0400" stop="20260830093400 -0400" channel="HBOPop.cl">
+    <title lang="es">Ritmo perfecto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830093400 -0400" stop="20260830115000 -0400" channel="HBOPop.cl">
+    <title lang="es">Blue Beetle</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830115000 -0400" stop="20260830135000 -0400" channel="HBOPop.cl">
+    <title lang="es">Hit Man</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830135000 -0400" stop="20260830153000 -0400" channel="HBOPop.cl">
+    <title lang="es">After: Almas Perdidas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830153000 -0400" stop="20260830170500 -0400" channel="HBOPop.cl">
+    <title lang="es">Mi novia Polly</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830170500 -0400" stop="20260830191500 -0400" channel="HBOPop.cl">
+    <title lang="es">Damas en Guerra</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830191500 -0400" stop="20260830210000 -0400" channel="HBOPop.cl">
+    <title lang="es">Novio por una noche</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260830230000 -0400" channel="HBOPop.cl">
+    <title lang="es">Hit Man</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830230000 -0400" stop="20260831011000 -0400" channel="HBOPop.cl">
+    <title lang="es">Blue Beetle</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831011000 -0400" stop="20260831091000 -0400" channel="HBOPop.cl">
+    <title lang="es">La sonrisa de Mona Lisa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831091000 -0400" stop="20260831104000 -0400" channel="HBOPop.cl">
+    <title lang="es">Esto apenas comienza</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831104000 -0400" stop="20260831122500 -0400" channel="HBOPop.cl">
+    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831122500 -0400" stop="20260831143000 -0400" channel="HBOPop.cl">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831143000 -0400" stop="20260831162000 -0400" channel="HBOPop.cl">
+    <title lang="es">Nosotros Los Nobles</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831162000 -0400" stop="20260831181500 -0400" channel="HBOPop.cl">
+    <title lang="es">El Gran Viaje de tu Vida</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831181500 -0400" stop="20260831190500 -0400" channel="HBOPop.cl">
+    <title lang="es">HBO Movies</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831190500 -0400" stop="20260831205500 -0400" channel="HBOPop.cl">
+    <title lang="es">Click perdiendo el control</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831205500 -0400" stop="20260831230000 -0400" channel="HBOPop.cl">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831230000 -0400" stop="20260901012500 -0400" channel="HBOPop.cl">
+    <title lang="es">Animales Fantásticos 3</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901012500 -0400" stop="20260901090500 -0400" channel="HBOPop.cl">
+    <title lang="es">Damas en Guerra</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901090500 -0400" stop="20260901112000 -0400" channel="HBOPop.cl">
+    <title lang="es">Cincuenta Sombras de Grey</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901112000 -0400" stop="20260901130000 -0400" channel="HBOPop.cl">
+    <title lang="es">Mi novia Polly</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901130000 -0400" stop="20260901144500 -0400" channel="HBOPop.cl">
+    <title lang="es">La mejor noche de tu vida</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901144500 -0400" stop="20260901164500 -0400" channel="HBOPop.cl">
+    <title lang="es">Magic Mike El último baile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901164500 -0400" stop="20260901174500 -0400" channel="HBOPop.cl">
+    <title lang="es">Conan O' Brien Must Go</title>
+    <desc lang="es">Temporada 3 | Episodio 2.</desc>
+  </programme>
+  <programme start="20260901174500 -0400" stop="20260901192500 -0400" channel="HBOPop.cl">
+    <title lang="es">Feliz Día de tu Muerte</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901192500 -0400" stop="20260901211000 -0400" channel="HBOPop.cl">
+    <title lang="es">Feliz Día de tu Muerte 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901211000 -0400" stop="20260901230000 -0400" channel="HBOPop.cl">
+    <title lang="es">Atrapado robando</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901230000 -0400" stop="20260902003500 -0400" channel="HBOPop.cl">
+    <title lang="es">Atrapado robando</title>
     <desc lang="es">Sin información.</desc>
   </programme>
   
