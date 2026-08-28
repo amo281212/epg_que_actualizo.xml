@@ -4,10 +4,6 @@
   <channel id="TVN.cl">
     <display-name>TVN</display-name>
   </channel>
-  <programme start="20260828110000 -0400" stop="20260828130000 -0400" channel="TVN.cl">
-    <title lang="es">El Medio Día</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828130000 -0400" stop="20260828150000 -0400" channel="TVN.cl">
     <title lang="es">24 Horas al Día</title>
     <desc lang="es">Sin información.</desc>
@@ -104,10 +100,6 @@
   <channel id="Mega.cl">
     <display-name>Mega</display-name>
   </channel>
-  <programme start="20260828080000 -0400" stop="20260828130000 -0400" channel="Mega.cl">
-    <title lang="es">Mucho gusto</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828130000 -0400" stop="20260828150000 -0400" channel="Mega.cl">
     <title lang="es">Meganoticias Alerta</title>
     <desc lang="es">Sin información.</desc>
@@ -236,14 +228,170 @@
     <title lang="es">Trasnoche</title>
     <desc lang="es">Sin información.</desc>
   </programme>
+
+  <channel id="Chilevision.cl">
+    <display-name>Chilevision</display-name>
+  </channel>
+  <programme start="20260828153000 -0400" stop="20260828170000 -0400" channel="Chilevision.cl">
+    <title lang="es">Contigo en directo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828170000 -0400" stop="20260828200000 -0400" channel="Chilevision.cl">
+    <title lang="es">Plan perfecto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828200000 -0400" stop="20260828223500 -0400" channel="Chilevision.cl">
+    <title lang="es">Chilevisión noticias central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828223500 -0400" stop="20260829004500 -0400" channel="Chilevision.cl">
+    <title lang="es">Primer plano</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829004500 -0400" stop="20260829130000 -0400" channel="Chilevision.cl">
+    <title lang="es">CHV Noticias</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829130000 -0400" stop="20260829150000 -0400" channel="Chilevision.cl">
+    <title lang="es">Chilevisión noticias tarde</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829150000 -0400" stop="20260829202000 -0400" channel="Chilevision.cl">
+    <title lang="es">Sabingo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829202000 -0400" stop="20260829223500 -0400" channel="Chilevision.cl">
+    <title lang="es">Chilevisión noticias central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829223500 -0400" stop="20260830011500 -0400" channel="Chilevision.cl">
+    <title lang="es">Divina comida: Desafío duplas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830011500 -0400" stop="20260830130000 -0400" channel="Chilevision.cl">
+    <title lang="es">CHV Noticias</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830130000 -0400" stop="20260830150000 -0400" channel="Chilevision.cl">
+    <title lang="es">Chilevisión Noticias Tarde</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830150000 -0400" stop="20260830202000 -0400" channel="Chilevision.cl">
+    <title lang="es">Sabingo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
+  <channel id="Canal13.cl">
+    <display-name>Canal 13</display-name>
+  </channel>
+  <programme start="20260828153000 -0400" stop="20260828170000 -0400" channel="Canal13.cl">
+    <title lang="es">Vale Todo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828170000 -0400" stop="20260828191500 -0400" channel="Canal13.cl">
+    <title lang="es">Hay que decirlo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828191500 -0400" stop="20260828210000 -0400" channel="Canal13.cl">
+    <title lang="es">Que dice Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828210000 -0400" stop="20260828224000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828224000 -0400" stop="20260828225000 -0400" channel="Canal13.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828225000 -0400" stop="20260829003000 -0400" channel="Canal13.cl">
+    <title lang="es">Que dice Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829003000 -0400" stop="20260829080000 -0400" channel="Canal13.cl">
+    <title lang="es">El crucero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829080000 -0400" stop="20260829130000 -0400" channel="Canal13.cl">
+    <title lang="es">T13 finde</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829130000 -0400" stop="20260829140000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece Tarde</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829140000 -0400" stop="20260829145000 -0400" channel="Canal13.cl">
+    <title lang="es">Crush tu gira</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829145000 -0400" stop="20260829164000 -0400" channel="Canal13.cl">
+    <title lang="es">El Jardín Secreto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829164000 -0400" stop="20260829181500 -0400" channel="Canal13.cl">
+    <title lang="es">Donde el corazón te lleva</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829181500 -0400" stop="20260829193000 -0400" channel="Canal13.cl">
+    <title lang="es">Siempre hay un chileno</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829193000 -0400" stop="20260829210000 -0400" channel="Canal13.cl">
+    <title lang="es">Lugares que hablan</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829210000 -0400" stop="20260829221000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829221000 -0400" stop="20260829222000 -0400" channel="Canal13.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829222000 -0400" stop="20260830003000 -0400" channel="Canal13.cl">
+    <title lang="es">El clan, en busca de la aventura</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830003000 -0400" stop="20260830090000 -0400" channel="Canal13.cl">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830090000 -0400" stop="20260830110000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece a la hora</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830110000 -0400" stop="20260830130000 -0400" channel="Canal13.cl">
+    <title lang="es">Mesa central</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830130000 -0400" stop="20260830143000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece tarde</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830143000 -0400" stop="20260830162000 -0400" channel="Canal13.cl">
+    <title lang="es">Durmiendo con el enemigo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830162000 -0400" stop="20260830183000 -0400" channel="Canal13.cl">
+    <title lang="es">Fukushima Amenaza nuclear</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830183000 -0400" stop="20260830210000 -0400" channel="Canal13.cl">
+    <title lang="es">Lugares que hablan</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260830221000 -0400" channel="Canal13.cl">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830221000 -0400" stop="20260830222000 -0400" channel="Canal13.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
   
   <channel id="AMC.cl">
     <display-name>AMC</display-name>
   </channel>
-  <programme start="20260828100000 -0400" stop="20260828130000 -0400" channel="AMC.cl">
-    <title lang="es">Cine AMC</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828130000 -0400" stop="20260828160000 -0400" channel="AMC.cl">
     <title lang="es">Cine AMC</title>
     <desc lang="es">Sin información.</desc>
@@ -296,14 +444,6 @@
   <channel id="Cinecanal.cl">
     <display-name>Cinecanal</display-name>
   </channel>
-  <programme start="20260828101000 -0400" stop="20260828121700 -0400" channel="Cinecanal.cl">
-    <title lang="es">El gran hotel Budapest</title>
-    <desc lang="es">El conserje de un elegante hotel europeo inicia una interesante amistad con un joven compañero de trabajo.</desc>
-  </programme>
-  <programme start="20260828121700 -0400" stop="20260828140700 -0400" channel="Cinecanal.cl">
-    <title lang="es">La gran aventura de los Lunnis y el libro mágico</title>
-    <desc lang="es">La fantasía está en peligro. El malvado Crudo ha descubierto la forma de terminar con el Libro Mágico, que contiene todas las historias inventadas por la humanidad. Una niña de 9 años es la elegida para salvarla con la ayuda de sus amigos los Lunnis.</desc>
-  </programme>
   <programme start="20260828140700 -0400" stop="20260828160600 -0400" channel="Cinecanal.cl">
     <title lang="es">4x4</title>
     <desc lang="es">Una camioneta 4x4 estacionada en la vereda de un barrio de Buenos Aires. Un joven entra a robar, queda encerrado y debe lidiar con alguien que, desde afuera, tiene el control del vehículo.</desc>
@@ -384,10 +524,6 @@
   <channel id="Cinemax.cl">
     <display-name>Cinemax</display-name>
   </channel>
-  <programme start="20260828105900 -0400" stop="20260828124900 -0400" channel="Cinemax.cl">
-    <title lang="es">Amigas Para Siempre</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828124900 -0400" stop="20260828145400 -0400" channel="Cinemax.cl">
     <title lang="es">El caza recompensas</title>
     <desc lang="es">Sin información.</desc>
@@ -468,14 +604,6 @@
   <channel id="Golden.cl">
     <display-name>Golden</display-name>
   </channel>
-  <programme start="20260828105300 -0400" stop="20260828123600 -0400" channel="Golden.cl">
-    <title lang="es">El candidato honesto</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828123600 -0400" stop="20260828142300 -0400" channel="Golden.cl">
-    <title lang="es">Una mujer sin filtro</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828142300 -0400" stop="20260828162200 -0400" channel="Golden.cl">
     <title lang="es">La familia de mi novio</title>
     <desc lang="es">Sin información.</desc>
@@ -532,14 +660,6 @@
   <channel id="GoldenEdge.cl">
     <display-name>Golden Edge</display-name>
   </channel>
-  <programme start="20260828112000 -0400" stop="20260828130200 -0400" channel="GoldenEdge.cl">
-    <title lang="es">El gran impostor</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828130200 -0400" stop="20260828144400 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Atrapen al Gringo</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828144400 -0400" stop="20260828163200 -0400" channel="GoldenEdge.cl">
     <title lang="es">Fuego contra fuego</title>
     <desc lang="es">Sin información.</desc>
@@ -632,10 +752,6 @@
   <channel id="HBO.cl">
     <display-name>HBO</display-name>
   </channel>
-  <programme start="20260828120300 -0400" stop="20260828140300 -0400" channel="HBO.cl">
-    <title lang="es">Venom</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828140300 -0400" stop="20260828155500 -0400" channel="HBO.cl">
     <title lang="es">Pasaje al paraíso</title>
     <desc lang="es">Sin información.</desc>
@@ -720,10 +836,6 @@
   <channel id="HBO2.cl">
     <display-name>HBO2</display-name>
   </channel>
-  <programme start="20260828102700 -0400" stop="20260828130700 -0400" channel="HBO2.cl">
-    <title lang="es">Christy: El combate de su vida</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828130700 -0400" stop="20260828154300 -0400" channel="HBO2.cl">
     <title lang="es">El origen</title>
     <desc lang="es">Sin información.</desc>
@@ -848,18 +960,6 @@
   <channel id="HBOFamily.cl">
     <display-name>HBO Family</display-name>
   </channel>
-  <programme start="20260828001800 -0400" stop="20260828094700 -0400" channel="HBOFamily.cl">
-    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828094700 -0400" stop="20260828112900 -0400" channel="HBOFamily.cl">
-    <title lang="es">GOAT: La cabra que cambió el juego</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828112900 -0400" stop="20260828141200 -0400" channel="HBOFamily.cl">
-    <title lang="es">Wicked</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828141200 -0400" stop="20260828155900 -0400" channel="HBOFamily.cl">
     <title lang="es">Pokémon: Detective Pikachu</title>
     <desc lang="es">Sin información.</desc>
@@ -928,22 +1028,6 @@
   <channel id="HBOPop.cl">
     <display-name>HBO Pop</display-name>
   </channel>
-  <programme start="20260828010000 -0400" stop="20260828090500 -0400" channel="HBOPop.cl">
-    <title lang="es">Fuego cruzado</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828090500 -0400" stop="20260828105000 -0400" channel="HBOPop.cl">
-    <title lang="es">17 otra vez</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828105000 -0400" stop="20260828124000 -0400" channel="HBOPop.cl">
-    <title lang="es">Policias de repuesto</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828124000 -0400" stop="20260828144500 -0400" channel="HBOPop.cl">
-    <title lang="es">Cuestión de Tiempo</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828144500 -0400" stop="20260828164500 -0400" channel="HBOPop.cl">
     <title lang="es">Amores Materialistas</title>
     <desc lang="es">Sin información.</desc>
@@ -1120,27 +1204,379 @@
     <title lang="es">Atrapado robando</title>
     <desc lang="es">Sin información.</desc>
   </programme>
+
+  <channel id="HBOXtreme.cl">
+    <display-name>HBO Xtreme</display-name>
+  </channel>
+  <programme start="20260828134000 -0400" stop="20260828151900 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Código negro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828151900 -0400" stop="20260828171200 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Guerra Civil</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828171200 -0400" stop="20260828192700 -0400" channel="HBOXtreme.cl">
+    <title lang="es">El Justiciero</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828192700 -0400" stop="20260828210800 -0400" channel="HBOXtreme.cl">
+    <title lang="es">12 Horas para Sobrevivir</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828210800 -0400" stop="20260828230000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Guerra Civil</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828230000 -0400" stop="20260829011300 -0400" channel="HBOXtreme.cl">
+    <title lang="es">El rey de marfil</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829011300 -0400" stop="20260829104000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Interstellar</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829104000 -0400" stop="20260829121300 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Larga distancia</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829121300 -0400" stop="20260829140400 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Life: Vida Inteligente</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829140400 -0400" stop="20260829150400 -0400" channel="HBOXtreme.cl">
+    <title lang="es">HBO Movies</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829150400 -0400" stop="20260829160000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Hard Knocks Seattle Seahawks</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829160000 -0400" stop="20260829181500 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Battleship: Batalla Naval</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829181500 -0400" stop="20260829200800 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Elysium</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200800 -0400" stop="20260829230000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Interstellar</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829230000 -0400" stop="20260830003100 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Larga distancia</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830003100 -0400" stop="20260830092300 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La noche de la expiación</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830092300 -0400" stop="20260830111400 -0400" channel="HBOXtreme.cl">
+    <title lang="es">12 Horas para Sobrevivir</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830111400 -0400" stop="20260830125700 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Him El elegido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830125700 -0400" stop="20260830145700 -0400" channel="HBOXtreme.cl">
+    <title lang="es">300</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830145700 -0400" stop="20260830164400 -0400" channel="HBOXtreme.cl">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830164400 -0400" stop="20260830185600 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830185600 -0400" stop="20260830211000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Rápidos y Furiosos 6</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830211000 -0400" stop="20260830230000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Atrapado robando</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830230000 -0400" stop="20260831004000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Him El elegido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831004000 -0400" stop="20260831095600 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Blackhat</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831095600 -0400" stop="20260831115100 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Contrabando</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831115100 -0400" stop="20260831134300 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Rápidos y furiosos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831134300 -0400" stop="20260831152200 -0400" channel="HBOXtreme.cl">
+    <title lang="es">Código negro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831152200 -0400" stop="20260831171200 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831171200 -0400" stop="20260831191200 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831191200 -0400" stop="20260831205300 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831205300 -0400" stop="20260831230000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831230000 -0400" stop="20260901003800 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901003800 -0400" stop="20260901100000 -0400" channel="HBOXtreme.cl">
+    <title lang="es">La supremacía de Bourne</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
   
   <channel id="ESPN.cl">
     <display-name>ESPN</display-name>
   </channel>
-  <programme start="20260827100000 -0400" stop="20260827160000 -0400" channel="ESPN.cl">
-    <title lang="es">Contenido ESPN</title>
+  <programme start="20260828120000 -0400" stop="20260828140000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828140000 -0400" stop="20260828143000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828143000 -0400" stop="20260828164000 -0400" channel="ESPN.cl">
+    <title lang="es">Serie A: Milan vs. Venezia</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828164000 -0400" stop="20260828190000 -0400" channel="ESPN.cl">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828190000 -0400" stop="20260828200000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828200000 -0400" stop="20260828213000 -0400" channel="ESPN.cl">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828213000 -0400" stop="20260828230000 -0400" channel="ESPN.cl">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828230000 -0400" stop="20260829072000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829072000 -0400" stop="20260829092500 -0400" channel="ESPN.cl">
+    <title lang="es">Liverpool vs. Nottingham Forest</title>
+    <desc lang="es">Premier League.</desc>
+  </programme>
+  <programme start="20260829092500 -0400" stop="20260829095000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829095000 -0400" stop="20260829115500 -0400" channel="ESPN.cl">
+    <title lang="es">Bournemouth vs. Manchester City</title>
+    <desc lang="es">Premier League.</desc>
+  </programme>
+<programme start="20260829115500 -0400" stop="20260829122000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829122000 -0400" stop="20260829143000 -0400" channel="ESPN.cl">
+    <title lang="es">Tottenham vs. Newcastle United</title>
+    <desc lang="es">Premier League.</desc>
+  </programme>
+  <programme start="20260829143000 -0400" stop="20260829164000 -0400" channel="ESPN.cl">
+    <title lang="es">Serie A: Juventus vs. Parma</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829164000 -0400" stop="20260829200000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200000 -0400" stop="20260829233000 -0400" channel="ESPN.cl">
+    <title lang="es">Boxeo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829233000 -0400" stop="20260830105500 -0400" channel="ESPN.cl">
+    <title lang="es">Chelsea vs. Brighton & Hove Albion</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830105500 -0400" stop="20260830112000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830112000 -0400" stop="20260830132500 -0400" channel="ESPN.cl">
+    <title lang="es">Manchester United vs. Ipswich Town</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830132500 -0400" stop="20260830134500 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter+</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830134500 -0400" stop="20260830155500 -0400" channel="ESPN.cl">
+    <title lang="es">Banfield vs. River Plate</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830155500 -0400" stop="20260830180000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830180000 -0400" stop="20260830210000 -0400" channel="ESPN.cl">
+    <title lang="es">SportsCenter</title>
     <desc lang="es">Sin información.</desc>
   </programme>
 
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
-  <programme start="20260827160000 -0400" stop="20260828000000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828000000 -0400" stop="20260828100000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828100000 -0400" stop="20260828140000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828140000 -0400" stop="20260828180000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828180000 -0400" stop="20260828183000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA Cobresal vs Palestino</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828183000 -0400" stop="20260828203000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Cobresal vs Palestino</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828203000 -0400" stop="20260828205000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Cobresal vs Palestino</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828205000 -0400" stop="20260829000000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829000000 -0400" stop="20260829120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829120000 -0400" stop="20260829123000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA ASCENSO Unión San Felipe vs C.D. Santa Cruz</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829123000 -0400" stop="20260829143000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Unión San Felipe vs C.D. Santa Cruz</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829143000 -0400" stop="20260829144000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST ASCENSO Unión San Felipe vs C.D. Santa Cruz</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829144000 -0400" stop="20260829150000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA ASCENSO Santiago Wanderers vs Magallanes</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829150000 -0400" stop="20260829170000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Santiago Wanderers vs Magallanes</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829170000 -0400" stop="20260829171000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST ASCENSO Santiago Wanderers vs Magallanes</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829171000 -0400" stop="20260829173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA Deportes Limache vs Everton</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829173000 -0400" stop="20260829193000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Deportes Limache vs Everton</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829193000 -0400" stop="20260829194000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Deportes Limache vs Everton</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829194000 -0400" stop="20260829200000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA Ñublense vs Deportes Concepción</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200000 -0400" stop="20260829220000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Ñublense vs Deportes Concepción</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829220000 -0400" stop="20260829222000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Ñublense vs Deportes Concepción</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829222000 -0400" stop="20260830120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Ñublense vs Deportes Concepción</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830120000 -0400" stop="20260830123000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA ASCENSO D. Copiapó vs D. Antofagasta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830123000 -0400" stop="20260830143000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">D. Copiapó vs D. Antofagasta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830143000 -0400" stop="20260830144000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST ASCENSO D. Copiapó vs D. Antofagasta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830144000 -0400" stop="20260830150000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA U. de Concepción vs U. de Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830150000 -0400" stop="20260830170000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. de Concepción vs U. de Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830170000 -0400" stop="20260830171000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST U. de Concepción vs U. de Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830171000 -0400" stop="20260830173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA Colo-Colo vs Audax Italiano</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830173000 -0400" stop="20260830193000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Colo-Colo vs Audax Italiano</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830193000 -0400" stop="20260830194500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Colo-Colo vs Audax Italiano</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830194500 -0400" stop="20260830200000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">PREVIA Coquimbo Unido vs Huachipato</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830200000 -0400" stop="20260830220000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Coquimbo Unido vs Huachipato</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830220000 -0400" stop="20260830222000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">POST Coquimbo Unido vs Huachipato</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830222000 -0400" stop="20260831100000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831100000 -0400" stop="20260831120000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
   </programme>
