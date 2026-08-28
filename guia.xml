@@ -4,14 +4,6 @@
   <channel id="TVN.cl">
     <display-name>TVN</display-name>
   </channel>
-  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="TVN.cl">
-    <title lang="es">24 horas tu mañana</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828080000 -0400" stop="20260828110000 -0400" channel="TVN.cl">
-    <title lang="es">Buenos Días a Todos</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828110000 -0400" stop="20260828130000 -0400" channel="TVN.cl">
     <title lang="es">El Medio Día</title>
     <desc lang="es">Sin información.</desc>
@@ -112,10 +104,6 @@
   <channel id="Mega.cl">
     <display-name>Mega</display-name>
   </channel>
-  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="Mega.cl">
-    <title lang="es">Meganoticias amanece</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828080000 -0400" stop="20260828130000 -0400" channel="Mega.cl">
     <title lang="es">Mucho gusto</title>
     <desc lang="es">Sin información.</desc>
@@ -252,14 +240,6 @@
   <channel id="AMC.cl">
     <display-name>AMC</display-name>
   </channel>
-  <programme start="20260828000000 -0400" stop="20260828070000 -0400" channel="AMC.cl">
-    <title lang="es">Cine AMC</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828070000 -0400" stop="20260828100000 -0400" channel="AMC.cl">
-    <title lang="es">Cine AMC</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828100000 -0400" stop="20260828130000 -0400" channel="AMC.cl">
     <title lang="es">Cine AMC</title>
     <desc lang="es">Sin información.</desc>
@@ -316,18 +296,6 @@
   <channel id="Cinecanal.cl">
     <display-name>Cinecanal</display-name>
   </channel>
-  <programme start="20260827225900 -0400" stop="20260828014400 -0400" channel="Cinecanal.cl">
-    <title lang="es">Emma</title>
-    <desc lang="es">Sin info.</desc>
-  </programme>
-  <programme start="20260828014400 -0400" stop="20260828080000 -0400" channel="Cinecanal.cl">
-    <title lang="es">Cine trasnoche</title>
-    <desc lang="es">Sin info.</desc>
-  </programme>
-  <programme start="20260828080000 -0400" stop="20260828101000 -0400" channel="Cinecanal.cl">
-    <title lang="es">Reefa: El artista</title>
-    <desc lang="es">Basado en hechos reales, narra la historia de un talentoso joven inmigrante colombiano y artista del grafiti en Miami, cuya vida y prometedor futuro se ven trágicamente truncados por la brutalidad policial.</desc>
-  </programme>
   <programme start="20260828101000 -0400" stop="20260828121700 -0400" channel="Cinecanal.cl">
     <title lang="es">El gran hotel Budapest</title>
     <desc lang="es">El conserje de un elegante hotel europeo inicia una interesante amistad con un joven compañero de trabajo.</desc>
@@ -416,18 +384,6 @@
   <channel id="Cinemax.cl">
     <display-name>Cinemax</display-name>
   </channel>
-  <programme start="20260828005700 -0400" stop="20260828025300 -0400" channel="Cinemax.cl">
-    <title lang="es">Se busca</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828025300 -0400" stop="20260828090300 -0400" channel="Cinemax.cl">
-    <title lang="es">Mountainhead</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828090300 -0400" stop="20260828105900 -0400" channel="Cinemax.cl">
-    <title lang="es">El vengador</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828105900 -0400" stop="20260828124900 -0400" channel="Cinemax.cl">
     <title lang="es">Amigas Para Siempre</title>
     <desc lang="es">Sin información.</desc>
@@ -512,18 +468,6 @@
   <channel id="Golden.cl">
     <display-name>Golden</display-name>
   </channel>
-  <programme start="20260827234700 -0400" stop="20260828012800 -0400" channel="Golden.cl">
-    <title lang="es">Contrarreloj</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828012800 -0400" stop="20260828090800 -0400" channel="Golden.cl">
-    <title lang="es">El Mesero</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828090800 -0400" stop="20260828105300 -0400" channel="Golden.cl">
-    <title lang="es">El Roomie</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828105300 -0400" stop="20260828123600 -0400" channel="Golden.cl">
     <title lang="es">El candidato honesto</title>
     <desc lang="es">Sin información.</desc>
@@ -588,18 +532,6 @@
   <channel id="GoldenEdge.cl">
     <display-name>Golden Edge</display-name>
   </channel>
-  <programme start="20260828000700 -0400" stop="20260828020000 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Robo en las alturas</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828020000 -0400" stop="20260828093800 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Después de la muerte</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828093800 -0400" stop="20260828112000 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Dura travesía</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828112000 -0400" stop="20260828130200 -0400" channel="GoldenEdge.cl">
     <title lang="es">El gran impostor</title>
     <desc lang="es">Sin información.</desc>
@@ -700,18 +632,6 @@
   <channel id="HBO.cl">
     <display-name>HBO</display-name>
   </channel>
-  <programme start="20260828000000 -0400" stop="20260828080400 -0400" channel="HBO.cl">
-    <title lang="es">Sí señor</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828080400 -0400" stop="20260828095900 -0400" channel="HBO.cl">
-    <title lang="es">Al Filo del Mañana</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828095900 -0400" stop="20260828120300 -0400" channel="HBO.cl">
-    <title lang="es">Godzilla y Kong: El Nuevo Imperio</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828120300 -0400" stop="20260828140300 -0400" channel="HBO.cl">
     <title lang="es">Venom</title>
     <desc lang="es">Sin información.</desc>
@@ -800,16 +720,8 @@
   <channel id="HBO2.cl">
     <display-name>HBO2</display-name>
   </channel>
-  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="HBO2.cl">
-    <title lang="es">La huérfana</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828080000 -0400" stop="20260828102700 -0400" channel="HBO2.cl">
-    <title lang="es">Comer, Rezar, Amar</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828102700 -0400" stop="20260828130700 -0400" channel="HBO2.cl">
-    <title lang="es">Mujer Maravilla 1984</title>
+    <title lang="es">Christy: El combate de su vida</title>
     <desc lang="es">Sin información.</desc>
   </programme>
   <programme start="20260828130700 -0400" stop="20260828154300 -0400" channel="HBO2.cl">
