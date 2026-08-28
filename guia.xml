@@ -108,6 +108,146 @@
     <title lang="es">TV Tiempo</title>
     <desc lang="es">Sin información.</desc>
   </programme>
+
+  <channel id="Mega.cl">
+    <display-name>Mega</display-name>
+  </channel>
+  <programme start="20260828000000 -0400" stop="20260828080000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias amanece</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828080000 -0400" stop="20260828130000 -0400" channel="Mega.cl">
+    <title lang="es">Mucho gusto</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828130000 -0400" stop="20260828150000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Alerta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828150000 -0400" stop="20260828150500 -0400" channel="Mega.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828150500 -0400" stop="20260828154500 -0400" channel="Mega.cl">
+    <title lang="es">La hora de jugar</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828154500 -0400" stop="20260828164500 -0400" channel="Mega.cl">
+    <title lang="es">Carmen Gloria Fuerte y claro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828164500 -0400" stop="20260828173000 -0400" channel="Mega.cl">
+    <title lang="es">La Baronesa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828173000 -0400" stop="20260828181500 -0400" channel="Mega.cl">
+    <title lang="es">La Baronesa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828181500 -0400" stop="20260828200000 -0400" channel="Mega.cl">
+    <title lang="es">Dale Play</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828200000 -0400" stop="20260828220500 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828220500 -0400" stop="20260828221000 -0400" channel="Mega.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828221000 -0400" stop="20260829003000 -0400" channel="Mega.cl">
+    <title lang="es">Detras del Muro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829003000 -0400" stop="20260829080000 -0400" channel="Mega.cl">
+    <title lang="es">Trasnoche</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829080000 -0400" stop="20260829114000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Siempre Juntos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829114000 -0400" stop="20260829140000 -0400" channel="Mega.cl">
+    <title lang="es">Fútbol femenino: Magallanes vs Colo-Colo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829140000 -0400" stop="20260829150000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Actualiza</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829150000 -0400" stop="20260829160000 -0400" channel="Mega.cl">
+    <title lang="es">Acceso a lo nuestro</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829160000 -0400" stop="20260829170000 -0400" channel="Mega.cl">
+    <title lang="es">¿A qué costo?</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829170000 -0400" stop="20260829180000 -0400" channel="Mega.cl">
+    <title lang="es">Tesoros de mi barrio</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829180000 -0400" stop="20260829190000 -0400" channel="Mega.cl">
+    <title lang="es">Viajando ando</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829190000 -0400" stop="20260829200000 -0400" channel="Mega.cl">
+    <title lang="es">De paseo - Nuestras fiestas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200000 -0400" stop="20260829200000 -0400" channel="Mega.cl">
+    <title lang="es">De paseo - Nuestras fiestas</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829200000 -0400" stop="20260829220500 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829220500 -0400" stop="20260829221000 -0400" channel="Mega.cl">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260829221000 -0400" stop="20260830001000 -0400" channel="Mega.cl">
+    <title lang="es">Coliseo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830001000 -0400" stop="20260830080000 -0400" channel="Mega.cl">
+    <title lang="es">Trasnoche</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830080000 -0400" stop="20260830130000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Siempre Juntos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830130000 -0400" stop="20260830150000 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Actualiza</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830150000 -0400" stop="20260830164000 -0400" channel="Mega.cl">
+    <title lang="es">De paseo</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830164000 -0400" stop="20260830172000 -0400" channel="Mega.cl">
+    <title lang="es">Polla de potrillos</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830172000 -0400" stop="20260830200000 -0400" channel="Mega.cl">
+    <title lang="es">Detrás del Muro - Lo mejor</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830200000 -0400" stop="20260830222500 -0400" channel="Mega.cl">
+    <title lang="es">Meganoticias Prime</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260830222500 -0400" stop="20260831003000 -0400" channel="Mega.cl">
+    <title lang="es">Atrapados, 133</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831003000 -0400" stop="20260831080000 -0400" channel="Mega.cl">
+    <title lang="es">Trasnoche</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
   
   <channel id="AMC.cl">
     <display-name>AMC</display-name>
