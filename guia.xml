@@ -272,7 +272,11 @@
     <title lang="es">American pie tu primera vez</title>
     <desc lang="es">Sin información.</desc>
   </programme>
-  <programme start="20260827234700 -0400" stop="20260828090800 -0400" channel="Golden.cl">
+  <programme start="20260827234700 -0400" stop="20260828012800 -0400" channel="Golden.cl">
+    <title lang="es">Contrarreloj</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260828012800 -0400" stop="20260828090800 -0400" channel="Golden.cl">
     <title lang="es">El Mesero</title>
     <desc lang="es">Sin información.</desc>
   </programme>
