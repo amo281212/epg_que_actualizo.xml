@@ -4,14 +4,6 @@
   <channel id="TVN.cl">
     <display-name>TVN</display-name>
   </channel>
-  <programme start="20260828210000 -0400" stop="20260828224500 -0400" channel="TVN.cl">
-    <title lang="es">24 Horas Central</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828224500 -0400" stop="20260828225000 -0400" channel="TVN.cl">
-    <title lang="es">TV Tiempo</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828225000 -0400" stop="20260829004500 -0400" channel="TVN.cl">
     <title lang="es">¡Ahora caigo!</title>
     <desc lang="es">Sin información.</desc>
@@ -77,21 +69,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="Mega.cl">
     <display-name>Mega</display-name>
   </channel>
-  <programme start="20260828200000 -0400" stop="20260828220500 -0400" channel="Mega.cl">
-    <title lang="es">Meganoticias Prime</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828220500 -0400" stop="20260828221000 -0400" channel="Mega.cl">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828221000 -0400" stop="20260829003000 -0400" channel="Mega.cl">
-    <title lang="es">Detras del Muro</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260829003000 -0400" stop="20260829080000 -0400" channel="Mega.cl">
     <title lang="es">Trasnoche</title>
     <desc lang="es">Sin información.</desc>
@@ -177,17 +158,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="Chilevision.cl">
     <display-name>Chilevision</display-name>
   </channel>
-  <programme start="20260828200000 -0400" stop="20260828223500 -0400" channel="Chilevision.cl">
-    <title lang="es">Chilevisión noticias central</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828223500 -0400" stop="20260829004500 -0400" channel="Chilevision.cl">
-    <title lang="es">Primer plano</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260829004500 -0400" stop="20260829130000 -0400" channel="Chilevision.cl">
     <title lang="es">CHV Noticias</title>
     <desc lang="es">Sin información.</desc>
@@ -221,21 +195,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="Canal13.cl">
     <display-name>Canal 13</display-name>
   </channel>
-  <programme start="20260828210000 -0400" stop="20260828224000 -0400" channel="Canal13.cl">
-    <title lang="es">Teletrece</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828224000 -0400" stop="20260828225000 -0400" channel="Canal13.cl">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828225000 -0400" stop="20260829003000 -0400" channel="Canal13.cl">
-    <title lang="es">Que dice Chile</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260829003000 -0400" stop="20260829080000 -0400" channel="Canal13.cl">
     <title lang="es">El crucero</title>
     <desc lang="es">Sin información.</desc>
@@ -316,6 +279,7 @@
     <title lang="es">El tiempo</title>
     <desc lang="es">Sin información.</desc>
   </programme>
+
   
   <channel id="AMC.cl">
     <display-name>AMC</display-name>
@@ -357,13 +321,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="Cinecanal.cl">
     <display-name>Cinecanal</display-name>
   </channel>
-  <programme start="20260828205700 -0400" stop="20260828230000 -0400" channel="Cinecanal.cl">
-    <title lang="es">¡Esto es Guerra!</title>
-    <desc lang="es">Dos de los mejores operativos de la CIA se enfrentan entre sí luego de saber que ambos están saliendo con la misma chica. </desc>
-  </programme>
   <programme start="20260828230000 -0400" stop="20260829011400 -0400" channel="Cinecanal.cl">
     <title lang="es">El Cisne negro</title>
     <desc lang="es"></desc>
@@ -425,13 +386,10 @@
     <desc lang="es">Sin info.</desc>
   </programme>
 
+  
   <channel id="Cinemax.cl">
     <display-name>Cinemax</display-name>
   </channel>
-  <programme start="20260828205200 -0400" stop="20260828230000 -0400" channel="Cinemax.cl">
-    <title lang="es">El caza recompensas</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828230000 -0400" stop="20260829085000 -0400" channel="Cinemax.cl">
     <title lang="es">Chiquito pero peligroso</title>
     <desc lang="es">Sin información.</desc>
@@ -489,13 +447,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="Golden.cl">
     <display-name>Golden</display-name>
   </channel>
-  <programme start="20260828201300 -0400" stop="20260828220000 -0400" channel="Golden.cl">
-    <title lang="es">American pie tu primera vez</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828220000 -0400" stop="20260828234800 -0400" channel="Golden.cl">
     <title lang="es">Un Golpe con Estilo</title>
     <desc lang="es">Sin información.</desc>
@@ -533,13 +488,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="GoldenEdge.cl">
     <display-name>Golden Edge</display-name>
   </channel>
-  <programme start="20260828224800 -0400" stop="20260829003500 -0400" channel="GoldenEdge.cl">
-    <title lang="es">Destino Final</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260829003500 -0400" stop="20260829084700 -0400" channel="GoldenEdge.cl">
     <title lang="es">El Precio del Mañana</title>
     <desc lang="es">Sin información.</desc>
@@ -609,13 +561,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="HBO.cl">
     <display-name>HBO</display-name>
   </channel>
-  <programme start="20260828201100 -0400" stop="20260828220000 -0400" channel="HBO.cl">
-    <title lang="es">Venom</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828220000 -0400" stop="20260829003500 -0400" channel="HBO.cl">
     <title lang="es">Ella Dijo</title>
     <desc lang="es">Sin información.</desc>
@@ -681,13 +630,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="HBO2.cl">
     <display-name>HBO2</display-name>
   </channel>
-  <programme start="20260828194900 -0400" stop="20260828215500 -0400" channel="HBO2.cl">
-    <title lang="es">Jumanji: En la Selva</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828215500 -0400" stop="20260829000000 -0400" channel="HBO2.cl">
     <title lang="es">Bugonia</title>
     <desc lang="es">Sin información.</desc>
@@ -793,13 +739,10 @@
     <desc lang="es">Temporada 1: Episodio 3.</desc>
   </programme>
 
+  
   <channel id="HBOFamily.cl">
     <display-name>HBO Family</display-name>
   </channel>
-  <programme start="20260828210000 -0400" stop="20260828225100 -0400" channel="HBOFamily.cl">
-    <title lang="es">Sing: ¡Ven y Canta!</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828225100 -0400" stop="20260829011500 -0400" channel="HBOFamily.cl">
     <title lang="es">Mujer Maravilla</title>
     <desc lang="es">Sin información.</desc>
@@ -845,17 +788,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="HBOPop.cl">
     <display-name>HBO Pop</display-name>
   </channel>
-  <programme start="20260828201000 -0400" stop="20260828220000 -0400" channel="HBOPop.cl">
-    <title lang="es">Policias de repuesto</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260828220000 -0400" stop="20260828225000 -0400" channel="HBOPop.cl">
-    <title lang="es">HBO Movies</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260828225000 -0400" stop="20260829005000 -0400" channel="HBOPop.cl">
     <title lang="es">Amores Materialistas</title>
     <desc lang="es">Sin información.</desc>
@@ -1013,13 +949,10 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+  
   <channel id="HBOXtreme.cl">
     <display-name>HBO Xtreme</display-name>
 </channel>
-<programme start="20260828210800 -0400" stop="20260828230000 -0400" channel="HBOXtreme.cl">
-    <title lang="es">Guerra Civil</title>
-    <desc lang="es">Sin información.</desc>
-</programme>
 <programme start="20260828230000 -0400" stop="20260829011300 -0400" channel="HBOXtreme.cl">
     <title lang="es">El rey de marfil</title>
     <desc lang="es">Sin información.</desc>
@@ -1137,6 +1070,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="Space.cl">
     <display-name>Space</display-name>
 </channel>
@@ -1189,6 +1123,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="TNT.cl">
     <display-name>TNT</display-name>
 </channel>
@@ -1253,6 +1188,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="TNTSeries.cl">
     <display-name>TNT Series</display-name>
 </channel>
@@ -1261,6 +1197,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="StarChannel.cl">
     <display-name>Star Channel</display-name>
 </channel>
@@ -1317,6 +1254,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="UniversalTV.cl">
     <display-name>Universal TV</display-name>
 </channel>
@@ -1325,6 +1263,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="WarnerChannel.cl">
     <display-name>Warner Channel/display-name>
 </channel>
@@ -1389,6 +1328,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="AE.cl">
     <display-name>AE</display-name>
 </channel>
@@ -1441,6 +1381,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="ESPN.cl">
     <display-name>ESPN</display-name>
 </channel>
@@ -1509,6 +1450,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
+  
 <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
 </channel>
