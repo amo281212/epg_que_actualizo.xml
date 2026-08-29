@@ -1572,6 +1572,15 @@
     <desc lang="es">Sin información.</desc>
   </programme>
 
+
+    <channel id="FX.cl">
+    <display-name>FX</display-name>
+  </channel>
+  <programme start="20260829154600 -0400" stop="20260829173900 -0400" channel="FX.cl">
+    <title lang="es">Alien vs Depredador 2</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
     
   <channel id="ESPN.cl">
     <display-name>ESPN</display-name>
