@@ -1254,7 +1254,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
-  
+
 <channel id="UniversalTV.cl">
     <display-name>Universal TV</display-name>
 </channel>
@@ -1263,9 +1263,9 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
-  
+
 <channel id="WarnerChannel.cl">
-    <display-name>Warner Channel/display-name>
+    <display-name>Warner Channel</display-name>
 </channel>
 <programme start="20260829005200 -0400" stop="20260829104200 -0400" channel="WarnerChannel.cl">
     <title lang="es">Two and a Half Men</title>
@@ -1328,7 +1328,7 @@
     <desc lang="es">Sin información.</desc>
 </programme>
 
-  
+
 <channel id="AE.cl">
     <display-name>AE</display-name>
 </channel>
