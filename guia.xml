@@ -4,63 +4,124 @@
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
-  <programme start="20260829222000 -0400" stop="20260830120000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">POST Ñublense vs Deportes Concepción</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830120000 -0400" stop="20260830123000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">PREVIA ASCENSO D. Copiapó vs D. Antofagasta</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830123000 -0400" stop="20260830143000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">D. Copiapó vs D. Antofagasta</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830143000 -0400" stop="20260830144000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">POST ASCENSO D. Copiapó vs D. Antofagasta</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830144000 -0400" stop="20260830150000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">PREVIA U. de Concepción vs U. de Chile</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830150000 -0400" stop="20260830170000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">U. de Concepción vs U. de Chile</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830170000 -0400" stop="20260830171000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">POST U. de Concepción vs U. de Chile</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830171000 -0400" stop="20260830173000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">PREVIA Colo-Colo vs Audax Italiano</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830173000 -0400" stop="20260830193000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Colo-Colo vs Audax Italiano</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830193000 -0400" stop="20260830194500 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">POST Colo-Colo vs Audax Italiano</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830194500 -0400" stop="20260830200000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">PREVIA Coquimbo Unido vs Huachipato</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830200000 -0400" stop="20260830220000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Coquimbo Unido vs Huachipato</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830220000 -0400" stop="20260830222000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">POST Coquimbo Unido vs Huachipato</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260830222000 -0400" stop="20260831100000 -0400" channel="TNTSportsPremium.cl">
+
+  <programme start="20260831100000 -0400" stop="20260831174500 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
   </programme>
-  <programme start="20260831100000 -0400" stop="20260831120000 -0400" channel="TNTSportsPremium.cl">
+  <programme start="20260831174500 -0400" stop="20260831181500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa: Unión La Calera vs Deportes La Serena</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831181500 -0400" stop="20260831201500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Unión La Calera vs Deportes La Serena</title>
+    <desc lang="es">LIGA DE PRIMERA MERCADO LIBRE 2026 - FECHA 21.</desc>
+  </programme>
+  <programme start="20260831201500 -0400" stop="20260831202500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post: Unión La Calera vs Deportes La Serena</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831202500 -0400" stop="20260831204500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa: U. Católica vs O'Higgins</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831204500 -0400" stop="20260831224500 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. Católica vs O'Higgins</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831224500 -0400" stop="20260831230000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post: U. Católica vs O'Higgins</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260831230000 -0400" stop="20260901000000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Todos Somos Técnicos (Repetición)</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901000000 -0400" stop="20260901090000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901090000 -0400" stop="20260901100000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">No Es Para Tanto (Repetición) 31-08-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901100000 -0400" stop="20260901120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Cobreloa vs San Marcos (Repetición)</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901120000 -0400" stop="20260901133000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Data Sports (Repetición) 31-08-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901133000 -0400" stop="20260901153000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. de Concepción vs U. de Chile</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901153000 -0400" stop="20260901173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Todos Somos Técnicos (Repetición) 31-08-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901173000 -0400" stop="20260901190000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Data Sports - Primera Edición (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901190000 -0400" stop="20260901200000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">No Es Para Tanto (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901200000 -0400" stop="20260901213000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Data Sports (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901213000 -0400" stop="20260901233000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Todos Somos Técnicos (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260901233000 -0400" stop="20260902100000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260902100000 -0400" stop="20260902120000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Coquimbo Unido vs Huachipato (Repetición)</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260902120000 -0400" stop="20260902133000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Data Sports (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260902133000 -0400" stop="20260902153000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">U. Católica vs O'Higgins</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260902153000 -0400" stop="20260902173000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Todos Somos Técnicos (Repetición) 01-09-2026</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260902173000 -0400" stop="20260902180000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa: Coquimbo Unido vs U. de Concepción</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 16.</desc>
+  </programme>
+  <programme start="20260902180000 -0400" stop="20260902200000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Coquimbo Unido vs U. de Concepción</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 16.</desc>
+  </programme>
+  <programme start="20260902200000 -0400" stop="20260902201000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post: Coquimbo Unido vs U. de Concepción</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 16.</desc>
+  </programme>
+  <programme start="20260902201000 -0400" stop="20260902203000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Previa: Deportes Limache vs Ñublense</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 17.</desc>
+  </programme>
+  <programme start="20260902203000 -0400" stop="20260902223000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Deportes Limache vs Ñublense</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 17.</desc>
+  </programme>
+  <programme start="20260902223000 -0400" stop="20260902225000 -0400" channel="TNTSportsPremium.cl">
+    <title lang="es">Post: Deportes Limache vs Ñublense</title>
+    <desc lang="es">Liga de Primera Mercado Libre 2026 - Fecha 17.</desc>
+  </programme>
+  <programme start="20260902225000 -0400" stop="20260903100000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
   </programme>
