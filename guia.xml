@@ -4,15 +4,6 @@
   <channel id="TNTSportsPremium.cl">
     <display-name>TNT Sports Premium</display-name>
   </channel>
-
-  <programme start="20260903225000 -0400" stop="20260904100000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
-  <programme start="20260904100000 -0400" stop="20260904130000 -0400" channel="TNTSportsPremium.cl">
-    <title lang="es">Contenido TNT Sports</title>
-    <desc lang="es">Sin información.</desc>
-  </programme>
   <programme start="20260904130000 -0400" stop="20260904173000 -0400" channel="TNTSportsPremium.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
@@ -174,6 +165,118 @@
     <desc lang="es">Sin información.</desc>
   </programme>
   <programme start="20260907130000 -0300" stop="20260907160000 -0300" channel="TNTSportsPremium.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+
+  <channel id="TNTSports.cl">
+    <display-name>TNT Sports</display-name>
+  </channel>
+  <programme start="20260904170000 -0400" stop="20260904201000 -0400" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260904201000 -0400" stop="20260904203000 -0400" channel="TNTSports.cl">
+    <title lang="es">Previa Ascenso: Deportes Puerto Montt vs Curicó Unido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260904203000 -0400" stop="20260904223000 -0400" channel="TNTSports.cl">
+    <title lang="es">Deportes Puerto Montt vs Curicó Unido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260904223000 -0400" stop="20260904224000 -0400" channel="TNTSports.cl">
+    <title lang="es">Post Ascenso: Deportes Puerto Montt vs Curicó Unido</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260904224000 -0400" stop="20260904231000 -0400" channel="TNTSports.cl">
+    <title lang="es">+Motor Copec RallyMobil</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260904231000 -0400" stop="20260905092000 -0400" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905092000 -0400" stop="20260905112000 -0400" channel="TNTSports.cl">
+    <title lang="es">Rangers vs Deportes Temuco (Repetición)</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905112000 -0400" stop="20260905132000 -0400" channel="TNTSports.cl">
+    <title lang="es">Santiago Wanderers vs Deportes Iquique (Repetición)</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905132000 -0400" stop="20260905171000 -0400" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905171000 -0400" stop="20260905173000 -0400" channel="TNTSports.cl">
+    <title lang="es">Previa Ascenso: San Luis vs Cobreloa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905173000 -0400" stop="20260905193000 -0400" channel="TNTSports.cl">
+    <title lang="es">San Luis vs Cobreloa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905193000 -0400" stop="20260905194000 -0400" channel="TNTSports.cl">
+    <title lang="es">Post Ascenso: San Luis vs Cobreloa</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905194000 -0400" stop="20260905200000 -0400" channel="TNTSports.cl">
+    <title lang="es">Previa Ascenso: San Marcos vs Deportes Copiapó</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905200000 -0400" stop="20260905220000 -0400" channel="TNTSports.cl">
+    <title lang="es">San Marcos vs Deportes Copiapó</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905220000 -0400" stop="20260905221000 -0400" channel="TNTSports.cl">
+    <title lang="es">Post Ascenso: San Marcos vs Deportes Copiapó</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260905221000 -0400" stop="20260905235000 -0400" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906080000 -0300" stop="20260906113000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906113000 -0300" stop="20260906120000 -0300" channel="TNTSports.cl">
+    <title lang="es">+Motor Copec RallyMobil</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906120000 -0300" stop="20260906123000 -0300" channel="TNTSports.cl">
+    <title lang="es">Previa Ascenso: Deportes Antofagasta vs Deportes Recoleta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906123000 -0300" stop="20260906143000 -0300" channel="TNTSports.cl">
+    <title lang="es">Deportes Antofagasta vs Deportes Recoleta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906143000 -0300" stop="20260906144000 -0300" channel="TNTSports.cl">
+    <title lang="es">Post Ascenso: Deportes Antofagasta vs Deportes Recoleta</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906144000 -0300" stop="20260906170000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906170000 -0300" stop="20260906200000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906200000 -0300" stop="20260906230000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260906230000 -0300" stop="20260907080000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260907080000 -0300" stop="20260907100000 -0300" channel="TNTSports.cl">
+    <title lang="es">Contenido TNT Sports</title>
+    <desc lang="es">Sin información.</desc>
+  </programme>
+  <programme start="20260907100000 -0300" stop="20260907130000 -0300" channel="TNTSports.cl">
     <title lang="es">Contenido TNT Sports</title>
     <desc lang="es">Sin información.</desc>
   </programme>
